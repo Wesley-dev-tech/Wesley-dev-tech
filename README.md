@@ -9,9 +9,9 @@
 
 ### <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/11476363ce1fc12f336e372a5a2aa2aac83c5b01/assets/terminal-hello.svg" width="21" height="21" align="absmiddle" alt="" /> Hi there, I'm Wesley.
 
-I'm following the full-time **Full Stack & AI Automation Developer** course at SyntraPXL. After several years in accounting and administration, I made a deliberate switch to IT. I'm learning to build websites, web applications and software tailored to real needs.
+I'm following the full-time **Full Stack & AI Automation Developer** course at SyntraPXL. After several years in accounting and administration, I swapped spreadsheets for stylesheets — and kept my appreciation for clean data. Now I'm learning to build websites, web applications and software tailored to real needs.
 
-I wanted to understand how applications work behind the scenes, not just use them. What I enjoy most is breaking a problem into steps, testing an idea and improving it when something doesn't work. My finance background taught me to work carefully with data and processes; I want to combine that experience with code to create practical, user-friendly tools.
+Curiosity took me from clicking buttons to wondering what happens behind them. I enjoy breaking problems into smaller steps, testing ideas and debugging the parts that have other plans. My finance background taught me to think carefully about data and processes; now I'm putting that mindset to work in code, one commit at a time.
 
 📍 Balen, Belgium 🇧🇪
 
