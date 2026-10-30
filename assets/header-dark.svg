@@ -36,7 +36,7 @@
 <text x="454" y="418" font-family="Consolas,monospace" font-size="12" letter-spacing="1.7" fill="#D4895F">02 / DATA &amp; SERVICES</text>
 <rect x="454" y="432" width="42" height="11" rx="2" fill="none" stroke="#D4895F" stroke-width="1.8"/><rect x="454" y="448" width="42" height="11" rx="2" fill="none" stroke="#D4895F" stroke-width="1.8"/><circle cx="462" cy="438" r="1.5" fill="#D4895F"/><circle cx="462" cy="454" r="1.5" fill="#D4895F"/><path d="M473 438h16m-16 16h16" stroke="#D4895F" stroke-width="1.5"/>
 <text x="510" y="451" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#ECE7DD">BACKEND</text>
-<text x="510" y="478" font-family="Consolas,monospace" font-size="14" fill="#A39D91">APIs · MySQL</text>
+<text x="510" y="478" font-family="Consolas,monospace" font-size="14" fill="#A39D91">APIs · logic · MySQL</text>
 </g>
 <g>
 <rect x="824" y="394" width="336" height="112" rx="9" fill="#1F1D1A" stroke="#514B43" stroke-width="1.6"/>
@@ -54,7 +54,7 @@
 <text x="855" y="143" font-family="Consolas,monospace" font-size="14" fill="#A39D91">// learning-path.ts</text>
 <text x="855" y="174" font-family="Consolas,monospace" font-size="16" fill="#ECE7DD">const wesley = {</text>
 <text x="873" y="204" font-family="Consolas,monospace" font-size="16" fill="#D4895F">frontend: "JAVASCRIPT",</text>
-<text x="873" y="234" font-family="Consolas,monospace" font-size="16" fill="#ECE7DD">backend: "APIs/MySQL",</text>
+<text x="873" y="234" font-family="Consolas,monospace" font-size="16" fill="#ECE7DD">backend: "API/logic/MySQL",</text>
 <text x="873" y="264" font-family="Consolas,monospace" font-size="16" fill="#A39D91">next: "AI automation"</text>
 <text x="855" y="286" font-family="Consolas,monospace" font-size="16" fill="#ECE7DD">};</text>
 <path d="M992 306v22m-56 0h112" stroke="#514B43" stroke-width="8" stroke-linecap="round"/>
