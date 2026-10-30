@@ -59,11 +59,11 @@
 <rect x="824" y="90" width="336" height="216" rx="9" fill="#1F1D1A" stroke="#514B43" stroke-width="2"/>
 <rect x="838" y="104" width="308" height="188" rx="3" fill="#161513"/>
 <circle cx="856" cy="119" r="4" fill="#D4895F"/><circle cx="871" cy="119" r="4" fill="#A39D91" opacity=".4"/><circle cx="886" cy="119" r="4" fill="#A39D91" opacity=".4"/>
-<text x="855" y="143" font-family="Consolas,monospace" font-size="14" fill="#A39D91">// learning-path.ts</text>
+<text x="855" y="143" font-family="Consolas,monospace" font-size="14" fill="#A39D91">// developer.config.ts</text>
 <text x="855" y="174" font-family="Consolas,monospace" font-size="16" fill="#ECE7DD">const wesley = {</text>
-<text x="873" y="204" font-family="Consolas,monospace" font-size="16" fill="#D4895F">frontend: "JAVASCRIPT",</text>
-<text x="873" y="234" font-family="Consolas,monospace" font-size="16" fill="#ECE7DD">backend: "REST API/MYSQL",</text>
-<text x="873" y="264" font-family="Consolas,monospace" font-size="16" fill="#A39D91">next: "AI automation"</text>
+<text x="873" y="204" font-family="Consolas,monospace" font-size="16" fill="#D4895F">curiosity: true,</text>
+<text x="873" y="234" font-family="Consolas,monospace" font-size="16" fill="#ECE7DD">learn: build(),</text>
+<text x="873" y="264" font-family="Consolas,monospace" font-size="16" fill="#A39D91">next: improve()</text>
 <text x="855" y="286" font-family="Consolas,monospace" font-size="16" fill="#ECE7DD">};</text>
 <path d="M992 306v22m-56 0h112" stroke="#514B43" stroke-width="8" stroke-linecap="round"/>
 <rect x="0" y="486" width="1200" height="54" fill="#1F1D1A"/>
