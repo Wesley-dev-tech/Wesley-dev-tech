@@ -1,13 +1,13 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-    <img src="./assets/header-dark.svg" alt="Wesley Dev & Tech — Full Stack Developer in training" width="100%">
+    <img src="./assets/header-dark.svg" alt="Wesley Dev & Tech — Full Stack & AI Automation Developer in training" width="100%">
   </picture>
 </p>
 
-<p align="center">🌀 <strong><em>Learning without thought is labour lost; thought without learning is perilous.</em></strong><br><em>Learn by building. Test what works. Improve what doesn’t.</em></p>
+<p align="center"><img src="./assets/quote-icon.svg" width="28" height="28" alt="" /> <strong><em>Learning without thought is labour lost; thought without learning is perilous.</em></strong><br><em>Learn by building. Test what works. Improve what doesn’t.</em></p>
 
-### <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="32" alt="Animated Developer" /> Hi there, I'm Wesley.
+### <img src="./assets/terminal-hello.svg" width="32" height="32" alt="" /> Hi there, I'm Wesley.
 
 I'm a **Full Stack & AI Automation Developer in training** at SyntraPXL. After several years in finance and administration, I chose to follow my curiosity into software development.
 
