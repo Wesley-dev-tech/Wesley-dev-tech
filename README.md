@@ -1,8 +1,8 @@
 <!-- Original profile design for Wesley Dev & Tech. SVG artwork lives in /assets. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-    <img src="./assets/header-dark.svg" alt="Wesley Dev & Tech. Full Stack & AI Automation Developer in training. Business understanding, built into code." width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=3">
+    <img src="./assets/header-dark.svg?v=3" alt="Wesley Dev & Tech. Full Stack & AI Automation Developer in training. Business understanding, built into code." width="100%">
   </picture>
 </p>
 
@@ -12,15 +12,15 @@
 </p>
 
 <p align="center">
-  <a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-D4895F?style=for-the-badge&logo=githubpages&logoColor=161513" alt="Explore my portfolio"></a>
-  <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="https://img.shields.io/badge/LET%27S_CONNECT-1F1D1A?style=for-the-badge&logo=linkedin&logoColor=ECE7DD" alt="Connect on LinkedIn"></a>
+  <a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-portfolio.svg?v=3" alt="Explore my portfolio" width="190"></a>
+  <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="./assets/button-linkedin.svg?v=3" alt="Connect on LinkedIn" width="190"></a>
 </p>
 
 <p align="center">
-  <a href="#01--the-person-behind-the-code">About me</a> &nbsp; / &nbsp;
-  <a href="#02--less-talk-more-projects">Selected work</a> &nbsp; / &nbsp;
-  <a href="#03--my-current-toolbox">Toolbox</a> &nbsp; / &nbsp;
-  <a href="#04--the-next-chapter">Let's talk</a>
+  <a href="#01--the-person-behind-the-code"><img src="./assets/button-about.svg?v=3" alt="About me" width="148"></a> 
+  <a href="#02--less-talk-more-projects"><img src="./assets/button-projects.svg?v=3" alt="Selected projects" width="148"></a> 
+  <a href="#03--my-current-toolbox"><img src="./assets/button-toolbox.svg?v=3" alt="My toolbox" width="148"></a> 
+  <a href="#04--the-next-chapter"><img src="./assets/button-contact.svg?v=3" alt="Get in touch" width="148"></a>
 </p>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider-dark.svg" alt="" width="100%"></picture>
@@ -53,6 +53,11 @@ const wesley = {
 
 </details>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/learning-lab-light.svg?v=3">
+  <img src="./assets/learning-lab-dark.svg?v=3" alt="My learning lab: web interfaces, data and logic, and AI automation. Animated illustrations of the areas I am learning." width="100%">
+</picture>
+
 ## 02 / Less talk, more projects
 
 These are hands-on learning projects. Open a demo, try the interactions and explore the code.
@@ -69,7 +74,7 @@ These are hands-on learning projects. Open a demo, try the interactions and expl
 <h3>01 / Developer portfolio</h3>
 <p>A home for my work, with light and dark themes, swipeable project cards and a downloadable CV.</p>
 <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-<p><a href="https://wesley-dev-tech.github.io/Portfolio/"><strong>Explore the site ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Wesley-dev-tech/Portfolio">Source code</a></p>
+<p><a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-demo.svg?v=3" alt="Explore the site" width="148"></a> <a href="https://github.com/Wesley-dev-tech/Portfolio"><img src="./assets/button-code.svg?v=3" alt="View source code" width="148"></a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://wesley-dev-tech.github.io/Flooring_price_calculator/">
@@ -78,7 +83,7 @@ These are hands-on learning projects. Open a demo, try the interactions and expl
 <h3>02 / Flooring quote calculator</h3>
 <p>Room dimensions and tile choices become a price breakdown with VAT and a downloadable PDF quote.</p>
 <p><code>JavaScript</code> <code>Bootstrap</code> <code>jsPDF</code></p>
-<p><a href="https://wesley-dev-tech.github.io/Flooring_price_calculator/"><strong>Try the calculator ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Wesley-dev-tech/Flooring_price_calculator">Source code</a></p>
+<p><a href="https://wesley-dev-tech.github.io/Flooring_price_calculator/"><img src="./assets/button-demo.svg?v=3" alt="Try the calculator" width="148"></a> <a href="https://github.com/Wesley-dev-tech/Flooring_price_calculator"><img src="./assets/button-code.svg?v=3" alt="View source code" width="148"></a></p>
 </td>
 </tr>
 <tr>
@@ -89,7 +94,7 @@ These are hands-on learning projects. Open a demo, try the interactions and expl
 <h3>03 / From design to browser</h3>
 <p>My Fundamentals & tooling exam: translating a supplied design into a responsive event page. <strong>Result: 96/100.</strong></p>
 <p><code>HTML</code> <code>CSS</code> <code>Bootstrap</code> <code>Flexbox</code></p>
-<p><a href="https://wesley-dev-tech.github.io/Examen_Griezelnacht/"><strong>View the result ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Wesley-dev-tech/Examen_Griezelnacht">Source code</a></p>
+<p><a href="https://wesley-dev-tech.github.io/Examen_Griezelnacht/"><img src="./assets/button-demo.svg?v=3" alt="View the result" width="148"></a> <a href="https://github.com/Wesley-dev-tech/Examen_Griezelnacht"><img src="./assets/button-code.svg?v=3" alt="View source code" width="148"></a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://wesley-dev-tech.github.io/Animated_browser_mockup/">
@@ -101,14 +106,14 @@ These are hands-on learning projects. Open a demo, try the interactions and expl
 <h3>04 / A browser inside a browser</h3>
 <p>A CSS-driven cursor and scrolling preview, built to practise animation and attention to visual detail.</p>
 <p><code>HTML</code> <code>CSS animation</code> <code>SVG</code></p>
-<p><a href="https://wesley-dev-tech.github.io/Animated_browser_mockup/"><strong>Watch it move ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Wesley-dev-tech/Animated_browser_mockup">Source code</a></p>
+<p><a href="https://wesley-dev-tech.github.io/Animated_browser_mockup/"><img src="./assets/button-demo.svg?v=3" alt="Watch it move" width="148"></a> <a href="https://github.com/Wesley-dev-tech/Animated_browser_mockup"><img src="./assets/button-code.svg?v=3" alt="View source code" width="148"></a></p>
 </td>
 </tr>
 </table>
 
 <sub>The calculator and event page are fictional coursework demos. More projects and exam feedback are available in my portfolio.</sub>
 
-**[Browse all my repositories →](https://github.com/Wesley-dev-tech?tab=repositories)**
+<a href="https://github.com/Wesley-dev-tech?tab=repositories"><img src="./assets/button-all-projects.svg?v=3" alt="Browse all my repositories" width="210"></a>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider-dark.svg" alt="" width="100%"></picture>
 
@@ -141,4 +146,4 @@ If you're building software for real business processes, we already have somethi
 </picture>
 </a>
 
-<p align="center"><a href="https://wesley-dev-tech.github.io/Portfolio/">Portfolio & contact</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/wesley-bogaerts/">LinkedIn</a> &nbsp; / &nbsp; <a href="#">Back to top ↑</a><br><sub>Wesley Dev & Tech · Business understanding. Built into code.</sub></p>
+<p align="center"><a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-portfolio.svg?v=3" alt="Portfolio and contact" width="148"></a>  <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="./assets/button-linkedin.svg?v=3" alt="Connect on LinkedIn" width="148"></a>  <a href="#"><img src="./assets/button-top.svg?v=3" alt="Back to top" width="148"></a><br><sub>Wesley Dev & Tech · Business understanding. Built into code.</sub></p>
