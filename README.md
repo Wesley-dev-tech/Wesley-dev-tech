@@ -1,14 +1,14 @@
 <!-- Original profile design for Wesley Dev & Tech. SVG artwork lives in /assets. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/272ce778d922358ddc1b1fc000068628ad71cbc2/assets/header-light.svg">
-    <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/272ce778d922358ddc1b1fc000068628ad71cbc2/assets/header-dark.svg" alt="Wesley Dev & Tech. Full Stack & AI Automation Developer in training. Business understanding, built into code." width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+    <img src="./assets/header-dark.svg" alt="Wesley Dev & Tech. Full Stack & AI Automation Developer in training. From curiosity to code. One project at a time." width="100%">
   </picture>
 </p>
 
 <p align="center">
   <strong>Full Stack & AI Automation Developer in training at SyntraPXL · Belgium</strong><br>
-  Bringing a finance background to the software I'm learning to build.
+  Turning curiosity and practical experience into useful web projects.
 </p>
 
 <p align="center">
@@ -40,22 +40,50 @@ I've worked with invoices, reporting and the processes behind them. That experie
 <summary><strong>Open developer.config.ts</strong></summary>
 
 ```ts
-const wesley = {
-  location: "Belgium",
-  background: "Finance & administration",
-  education: "Full Stack & AI Automation Development",
-  school: "SyntraPXL",
-  interests: ["Web applications", "Databases", "AI automation"],
-  approach: "Understand the process. Build. Test. Improve.",
-  nextChapter: "A junior development role with room to grow",
+type Developer = {
+  name: string;
+  role: string;
+  location: string;
+  background: string[];
+  education: { track: string; school: string };
+  building: string[];
+  toolbox: Record<string, string[]>;
+  mindset: string;
 };
+
+const wesley: Developer = {
+  name: "Wesley Bogaerts",
+  role: "FULL STACK DEVELOPER // in training",
+  location: "Belgium",
+  background: ["Finance", "Administration", "Process thinking"],
+  education: {
+    track: "Full Stack & AI Automation Developer",
+    school: "SyntraPXL",
+  },
+  building: [
+    "Responsive websites and web applications",
+    "Interactive tools with practical output",
+    "AI-assisted workflow automation",
+  ],
+  toolbox: {
+    frontend: ["HTML", "CSS", "JavaScript", "Responsive Design"],
+    learning: ["TypeScript", "APIs", "Tailwind"],
+    data: ["MySQL", "Joins", "Normalization 1NF → 3NF"],
+    workflow: ["Git", "GitHub", "Scrum"],
+  },
+  mindset: "Learn by building. Understand, test, improve.",
+};
+
+export default wesley;
 ```
 
 </details>
 
+> “Learning without thought is labour lost; thought without learning is perilous.” — Confucius, *Analects* 2:15
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/9008141144d1b77f097d374a327f09e4954b32b7/assets/learning-lab-light.svg">
-  <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/9008141144d1b77f097d374a327f09e4954b32b7/assets/learning-lab-dark.svg" alt="My learning lab: web interfaces, data and logic, and AI automation. Animated illustrations of the areas I am learning." width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/learning-lab-light.svg">
+  <img src="./assets/learning-lab-dark.svg" alt="My learning lab: web interfaces, data and logic, and AI automation. Animated illustrations of the areas I am learning." width="100%">
 </picture>
 
 ## 02 / Less talk, more projects
@@ -146,4 +174,4 @@ If you're building software for real business processes, we already have somethi
 </picture>
 </a>
 
-<p align="center"><a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-portfolio.svg?v=3" alt="Portfolio and contact" width="148"></a>  <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="./assets/button-linkedin.svg?v=3" alt="Connect on LinkedIn" width="148"></a>  <a href="#"><img src="./assets/button-top.svg?v=3" alt="Back to top" width="148"></a><br><sub>Wesley Dev & Tech · Business understanding. Built into code.</sub></p>
+<p align="center"><a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-portfolio.svg?v=3" alt="Portfolio and contact" width="148"></a>  <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="./assets/button-linkedin.svg?v=3" alt="Connect on LinkedIn" width="148"></a>  <a href="#"><img src="./assets/button-top.svg?v=3" alt="Back to top" width="148"></a><br><sub>Wesley Dev & Tech · From curiosity to code. One project at a time.</sub></p>
