@@ -38,9 +38,9 @@
 
 ## ⚙️ What I'm focused on
 
-- **Websites & web design** — responsive interfaces with clear structure and a considered visual style.
-- **Web applications & data** — JavaScript interactions, MySQL relationships, queries and normalization.
-- **AI automation** — exploring how existing AI tools and APIs can make practical workflows easier.
+- 🎨 **Websites & web design** — building clear, responsive pages with HTML and CSS. “It works on my screen” isn't the finish line.
+- 🧩 **Web applications & data** — learning JavaScript and APIs, while giving MySQL tables, queries and relationships the structure they deserve.
+- 🤖 **AI automation** — exploring practical ways to connect tools and reduce repetitive work. Fewer copy-paste marathons, more time to solve the actual problem.
 
 <p align="center">
   <picture>
