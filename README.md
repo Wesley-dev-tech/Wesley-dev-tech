@@ -1,8 +1,8 @@
 <!-- Original profile design for Wesley Dev & Tech. SVG artwork lives in /assets. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=3">
-    <img src="./assets/header-dark.svg?v=3" alt="Wesley Dev & Tech. Full Stack & AI Automation Developer in training. Business understanding, built into code." width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/272ce778d922358ddc1b1fc000068628ad71cbc2/assets/header-light.svg">
+    <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/272ce778d922358ddc1b1fc000068628ad71cbc2/assets/header-dark.svg" alt="Wesley Dev & Tech. Full Stack & AI Automation Developer in training. Business understanding, built into code." width="100%">
   </picture>
 </p>
 
