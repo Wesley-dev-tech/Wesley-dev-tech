@@ -5,11 +5,11 @@
   </picture>
 </p>
 
-<p align="center"><img src="./assets/section-divider.svg" alt="Decorative copper section divider" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/49e5df113d775eeb4881bcd564139a306a540dea/assets/section-divider.svg" alt="Decorative copper section divider" width="100%"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/85f7bdad913c296520f9b2214f11b700c01ffe22/assets/quote-icon.svg" width="17" height="17" align="absmiddle" alt="" /> <strong><em>Learning without thought is labour lost; thought without learning is perilous.</em></strong><br><em>Learn by building. Test what works. Improve what doesn’t.</em></p>
 
-<p align="center"><img src="./assets/section-divider.svg" alt="Decorative copper section divider" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/49e5df113d775eeb4881bcd564139a306a540dea/assets/section-divider.svg" alt="Decorative copper section divider" width="100%"></p>
 
 ### <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/11476363ce1fc12f336e372a5a2aa2aac83c5b01/assets/terminal-hello.svg" width="21" height="21" align="absmiddle" alt="" /> Hi there, I'm Wesley.
 
@@ -19,7 +19,7 @@
 
 📍 Balen, Belgium 🇧🇪
 
-<p align="center"><img src="./assets/section-divider.svg" alt="Decorative copper section divider" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/49e5df113d775eeb4881bcd564139a306a540dea/assets/section-divider.svg" alt="Decorative copper section divider" width="100%"></p>
 
 ## ⚙️ What I'm focused on
 
@@ -27,7 +27,7 @@
 - **Web applications & data** — JavaScript interactions, MySQL relationships, queries and normalization.
 - **AI automation** — exploring how existing AI tools and APIs can make practical workflows easier.
 
-<p align="center"><img src="./assets/section-divider.svg" alt="Decorative copper section divider" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/49e5df113d775eeb4881bcd564139a306a540dea/assets/section-divider.svg" alt="Decorative copper section divider" width="100%"></p>
 
 ## 💻 My Tech Stack
 
@@ -49,7 +49,7 @@
 
 **Also practising:** Flexbox · CSS Grid · database normalization · Scrum
 
-<p align="center"><img src="./assets/section-divider.svg" alt="Decorative copper section divider" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/49e5df113d775eeb4881bcd564139a306a540dea/assets/section-divider.svg" alt="Decorative copper section divider" width="100%"></p>
 
 ## 📬 Let's connect
 
