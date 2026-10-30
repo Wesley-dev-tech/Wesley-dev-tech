@@ -5,11 +5,9 @@
   </picture>
 </p>
 
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider-dark.svg" alt="" width="100%"></picture>
+<p align="center">🌀 <strong><em>Learning without thought is labour lost; thought without learning is perilous.</em></strong><br><em>Learn by building. Test what works. Improve what doesn’t.</em></p>
 
-<p align="center"><em>“Learning without thought is labour lost; thought without learning is perilous.”</em><br><sub>— Confucius, <em>Analects</em> 2:15</sub></p>
-
-### 👋 Hi there, I'm Wesley.
+### <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="32" alt="Animated Developer" /> Hi there, I'm Wesley.
 
 I'm a **Full Stack & AI Automation Developer in training** at SyntraPXL. After several years in finance and administration, I chose to follow my curiosity into software development.
 
@@ -51,15 +49,11 @@ export default wesley;
 
 </details>
 
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider-dark.svg" alt="" width="100%"></picture>
-
 ## ⚙️ What I'm focused on
 
 - **Websites & web design** — responsive interfaces with clear structure and a considered visual style.
 - **Web applications & data** — JavaScript interactions, MySQL relationships, queries and normalization.
 - **AI automation** — exploring how existing AI tools and APIs can make practical workflows easier.
-
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider-dark.svg" alt="" width="100%"></picture>
 
 ## 💻 My Tech Stack
 
@@ -80,8 +74,6 @@ export default wesley;
 </picture>
 
 **Also practising:** Flexbox · CSS Grid · database normalization · Scrum
-
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg"><img src="./assets/divider-dark.svg" alt="" width="100%"></picture>
 
 ## 📬 Let's connect
 
