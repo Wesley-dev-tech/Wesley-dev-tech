@@ -1,13 +1,13 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-    <img src="./assets/header-dark.svg" alt="Wesley Dev & Tech — Full Stack & AI Automation Developer in training" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/11476363ce1fc12f336e372a5a2aa2aac83c5b01/assets/header-light.svg">
+    <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/11476363ce1fc12f336e372a5a2aa2aac83c5b01/assets/header-dark.svg" alt="Wesley Dev & Tech — Full Stack & AI Automation Developer in training" width="100%">
   </picture>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/85f7bdad913c296520f9b2214f11b700c01ffe22/assets/quote-icon.svg" width="17" height="17" align="absmiddle" alt="" /> <strong><em>Learning without thought is labour lost; thought without learning is perilous.</em></strong><br><em>Learn by building. Test what works. Improve what doesn’t.</em></p>
 
-### <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/85f7bdad913c296520f9b2214f11b700c01ffe22/assets/terminal-hello.svg" width="21" height="21" align="absmiddle" alt="" /> Hi there, I'm Wesley.
+### <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/11476363ce1fc12f336e372a5a2aa2aac83c5b01/assets/terminal-hello.svg" width="21" height="21" align="absmiddle" alt="" /> Hi there, I'm Wesley.
 
 I'm a **Full Stack & AI Automation Developer in training** at SyntraPXL. After several years in finance and administration, I chose to follow my curiosity into software development.
 
