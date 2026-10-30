@@ -15,8 +15,6 @@ I wanted to understand how applications work behind the scenes, not just use the
 
 📍 Balen, Belgium 🇧🇪
 
-<p><a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-portfolio.svg" alt="Explore my portfolio" width="190"></a></p>
-
 ## ⚙️ What I'm focused on
 
 - **Websites & web design** — responsive interfaces with clear structure and a considered visual style.
