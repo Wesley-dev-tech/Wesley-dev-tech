@@ -1,3 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-label="Developer prompt">
-<path d="M3 5.5 11 12l-8 6.5M13.5 18.5H21" fill="none" stroke="#D4895F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="title">
+<title id="title">Animated developer prompt</title>
+<style>
+.chevron{animation:enter 1.8s ease-in-out infinite}.cursor{animation:blink .9s steps(1) infinite}
+@keyframes enter{50%{transform:translateX(1.5px)}}@keyframes blink{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.chevron,.cursor{animation:none}}
+</style>
+<path class="chevron" d="M3 5.5 11 12l-8 6.5" fill="none" stroke="#D4895F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="cursor" d="M13.5 18.5H21" fill="none" stroke="#D4895F" stroke-width="2.4" stroke-linecap="round"/>
 </svg>
