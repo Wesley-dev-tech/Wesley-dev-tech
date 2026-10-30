@@ -100,7 +100,7 @@ for theme in PALETTES:
         (40,'WEB INTERFACES','Structure meets interaction.','<rect x="24" y="22" width="82" height="56" rx="5"/><path d="M24 36H106M49 50l-9 9 9 9M81 50l9 9-9 9M70 48l-9 22"/>'),
         (440,'DATA & LOGIC','Relationships before queries.','<ellipse cx="65" cy="30" rx="36" ry="11"/><path d="M29 30v44c0 15 72 15 72 0V30M29 52c0 15 72 15 72 0"/>'),
         (840,'AI AUTOMATION','Exploring smarter workflows.','<rect x="45" y="15" width="40" height="28" rx="4"/><rect x="14" y="66" width="40" height="28" rx="4"/><rect x="76" y="66" width="40" height="28" rx="4"/><path d="M65 43v12H34v11M65 55h31v11"/>')]:
-        lab+=f'<rect x="{x}" y="77" width="320" height="197" rx="8" fill="{{bg}}" stroke="{{muted}}" stroke-opacity=".28"/><g transform="translate({x+94} 88)" class="float"><g fill="none" stroke="{{accent}}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">{icon}</g></g>'
+        lab+=f'<rect x="{x}" y="77" width="320" height="197" rx="8" fill="{{bg}}" stroke="{{muted}}" stroke-opacity=".28"/><g transform="translate({x+94} 88)"><g class="float"><g fill="none" stroke="{{accent}}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">{icon}</g></g></g>'
         lab+=text(x+160,225,label,20,'text','700',False,'text-anchor="middle"')+text(x+160,253,subtitle,16,'muted','400',False,'text-anchor="middle"')
     svg(theme,'learning-lab',300,lab,'My learning lab: web interfaces, data and logic, and AI automation. Illustrated development interests, not a production system.')
 
