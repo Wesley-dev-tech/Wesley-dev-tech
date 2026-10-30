@@ -9,45 +9,13 @@
 
 ### <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/11476363ce1fc12f336e372a5a2aa2aac83c5b01/assets/terminal-hello.svg" width="21" height="21" align="absmiddle" alt="" /> Hi there, I'm Wesley.
 
-I'm a **Full Stack & AI Automation Developer in training** at SyntraPXL. After several years in finance and administration, I chose to follow my curiosity into software development.
+I'm following the full-time **Full Stack & AI Automation Developer** course at SyntraPXL. After several years in accounting and administration, I made a deliberate switch to IT. I'm learning to build websites, web applications and software tailored to real needs.
 
-I enjoy figuring out how things work, turning a problem into smaller steps and building something useful. My background gives me a practical eye for processes and data; my training is teaching me how to translate that into code.
+I wanted to understand how applications work behind the scenes, not just use them. What I enjoy most is breaking a problem into steps, testing an idea and improving it when something doesn't work. My finance background taught me to work carefully with data and processes; I want to combine that experience with code to create practical, user-friendly tools.
 
-📍 Based in Balen, Belgium 🇧🇪 · [Explore my portfolio](https://wesley-dev-tech.github.io/Portfolio/)
+📍 Balen, Belgium 🇧🇪
 
-<details>
-<summary><strong>💻 Open developer.config.ts</strong></summary>
-
-```ts
-type Developer = {
-  role: string;
-  background: string[];
-  focus: string[];
-  toolbox: Record<string, string[]>;
-  approach: string;
-};
-
-const wesley: Developer = {
-  role: "FULL STACK DEVELOPER // in training at SyntraPXL",
-  background: ["Finance", "Administration", "Process thinking"],
-  focus: [
-    "Responsive websites and web applications",
-    "Databases and clear data structures",
-    "Practical AI automation",
-  ],
-  toolbox: {
-    frontend: ["HTML", "CSS", "JavaScript", "Responsive Design"],
-    learning: ["TypeScript", "APIs", "Tailwind"],
-    data: ["MySQL", "SQL joins", "Normalization 1NF → 3NF"],
-    workflow: ["Git", "GitHub", "Scrum"],
-  },
-  approach: "Understand → build → test → learn → improve",
-};
-
-export default wesley;
-```
-
-</details>
+<p><a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-portfolio.svg" alt="Explore my portfolio" width="190"></a></p>
 
 ## ⚙️ What I'm focused on
 
