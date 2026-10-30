@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610" role="img" aria-labelledby="title desc">
 <title id="title">Wesley Dev &amp; Tech — Full Stack &amp; AI Automation Developer in training</title>
-<desc id="desc">A spacious three-step full-stack flow from frontend to backend and AI automation, with an animated typewriter.</desc>
+<desc id="desc">A three-step learning path from frontend through backend and data to AI automation, with a code screen aligned to the final step and an animated typewriter.</desc>
 <style>
 .reveal{transform-origin:32px 0;animation:type 18s steps(80,end) infinite}.caret{animation:cursor-move 18s steps(80,end) infinite,blink .8s steps(1) infinite}.light{animation:glow 4s ease-in-out infinite}
 @keyframes type{0%,6%{transform:scaleX(0)}75%,88%{transform:scaleX(1)}100%{transform:scaleX(0)}}@keyframes cursor-move{0%,6%{transform:translateX(0)}75%,88%{transform:translateX(1108px)}100%{transform:translateX(0)}}@keyframes blink{50%{opacity:0}}@keyframes glow{50%{opacity:.4}}
@@ -28,36 +28,36 @@
 <text x="62" y="418" font-family="Consolas,monospace" font-size="12" letter-spacing="1.7" fill="#9C4B26">01 / INTERFACE</text>
 <rect x="64" y="431" width="36" height="28" rx="3" fill="none" stroke="#9C4B26" stroke-width="2"/><path d="M64 439h36m-29 8h11m-11 5h20" stroke="#9C4B26" stroke-width="1.7"/><circle cx="70" cy="435" r="1" fill="#9C4B26"/>
 <text x="118" y="451" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#1F1D1A">FRONTEND</text>
-<text x="118" y="478" font-family="Consolas,monospace" font-size="14" fill="#5C574E">HTML · CSS · JavaScript</text>
+<text x="118" y="478" font-family="Consolas,monospace" font-size="14" fill="#5C574E">HTML · CSS · JAVASCRIPT</text>
 </g>
 <g>
 <rect x="432" y="394" width="336" height="112" rx="9" fill="#EFE9DF" stroke="#C9B9A9" stroke-width="1.6"/>
 <path d="M433 405v90" stroke="#9C4B26" stroke-width="3" opacity=".8"/>
-<text x="454" y="418" font-family="Consolas,monospace" font-size="12" letter-spacing="1.7" fill="#9C4B26">02 / CORE</text>
+<text x="454" y="418" font-family="Consolas,monospace" font-size="12" letter-spacing="1.7" fill="#9C4B26">02 / DATA &amp; SERVICES</text>
 <rect x="454" y="432" width="42" height="11" rx="2" fill="none" stroke="#9C4B26" stroke-width="1.8"/><rect x="454" y="448" width="42" height="11" rx="2" fill="none" stroke="#9C4B26" stroke-width="1.8"/><circle cx="462" cy="438" r="1.5" fill="#9C4B26"/><circle cx="462" cy="454" r="1.5" fill="#9C4B26"/><path d="M473 438h16m-16 16h16" stroke="#9C4B26" stroke-width="1.5"/>
 <text x="510" y="451" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#1F1D1A">BACKEND</text>
-<text x="510" y="478" font-family="Consolas,monospace" font-size="14" fill="#5C574E">APIs · logic · MySQL</text>
+<text x="510" y="478" font-family="Consolas,monospace" font-size="14" fill="#5C574E">APIs · MySQL</text>
 </g>
 <g>
 <rect x="824" y="394" width="336" height="112" rx="9" fill="#EFE9DF" stroke="#C9B9A9" stroke-width="1.6"/>
 <path d="M825 405v90" stroke="#9C4B26" stroke-width="3" opacity=".8"/>
-<text x="846" y="418" font-family="Consolas,monospace" font-size="12" letter-spacing="1.7" fill="#9C4B26">03 / WORKFLOW</text>
+<text x="846" y="418" font-family="Consolas,monospace" font-size="12" letter-spacing="1.7" fill="#9C4B26">03 / AUTOMATION</text>
 <rect x="846" y="430" width="34" height="31" rx="4" fill="none" stroke="#9C4B26" stroke-width="2"/><path d="M858 440h10m-5-5v16m-23-13h6m-6 15h6m34-15h6m-6 15h6" stroke="#9C4B26" stroke-width="1.7" stroke-linecap="round"/>
 <text x="902" y="451" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#1F1D1A">AI AUTOMATION</text>
-<text x="902" y="478" font-family="Consolas,monospace" font-size="14" fill="#5C574E">AI tools · useful processes</text>
+<text x="902" y="478" font-family="Consolas,monospace" font-size="14" fill="#5C574E">Existing AI tools · workflows</text>
 </g>
 <path d="M386 450h35m0 0-8-6m8 6-8 6 M778 450h35m0 0-8-6m8 6-8 6" fill="none" stroke="#9C4B26" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<rect x="714" y="105" width="371" height="250" rx="9" fill="#EFE9DF" stroke="#C9B9A9" stroke-width="2"/>
-<rect x="728" y="119" width="343" height="216" rx="3" fill="#F7F4EE"/>
-<circle cx="746" cy="135" r="4" fill="#9C4B26"/><circle cx="761" cy="135" r="4" fill="#5C574E" opacity=".4"/><circle cx="776" cy="135" r="4" fill="#5C574E" opacity=".4"/>
-<text x="745" y="171" font-family="Consolas,monospace" font-size="15" fill="#5C574E">// developer.config.ts</text>
-<text x="745" y="206" font-family="Consolas,monospace" font-size="17" fill="#1F1D1A">const wesley = {</text>
-<text x="763" y="238" font-family="Consolas,monospace" font-size="17" fill="#9C4B26">curiosity: true,</text>
-<text x="763" y="270" font-family="Consolas,monospace" font-size="17" fill="#1F1D1A">learn: build(),</text>
-<text x="763" y="302" font-family="Consolas,monospace" font-size="17" fill="#5C574E">next: improve()</text>
-<text x="745" y="325" font-family="Consolas,monospace" font-size="17" fill="#1F1D1A">};</text>
-<path d="M869 355v24m-66 0h132" stroke="#C9B9A9" stroke-width="8" stroke-linecap="round"/>
+<rect x="824" y="105" width="336" height="250" rx="9" fill="#EFE9DF" stroke="#C9B9A9" stroke-width="2"/>
+<rect x="838" y="119" width="308" height="216" rx="3" fill="#F7F4EE"/>
+<circle cx="856" cy="135" r="4" fill="#9C4B26"/><circle cx="871" cy="135" r="4" fill="#5C574E" opacity=".4"/><circle cx="886" cy="135" r="4" fill="#5C574E" opacity=".4"/>
+<text x="855" y="171" font-family="Consolas,monospace" font-size="15" fill="#5C574E">// learning-path.ts</text>
+<text x="855" y="206" font-family="Consolas,monospace" font-size="16" fill="#1F1D1A">const wesley = {</text>
+<text x="873" y="238" font-family="Consolas,monospace" font-size="16" fill="#9C4B26">frontend: "JAVASCRIPT",</text>
+<text x="873" y="270" font-family="Consolas,monospace" font-size="16" fill="#1F1D1A">backend: "APIs/MySQL",</text>
+<text x="873" y="302" font-family="Consolas,monospace" font-size="16" fill="#5C574E">next: "AI automation"</text>
+<text x="855" y="325" font-family="Consolas,monospace" font-size="16" fill="#1F1D1A">};</text>
+<path d="M992 355v24m-56 0h112" stroke="#C9B9A9" stroke-width="8" stroke-linecap="round"/>
 <rect x="0" y="540" width="1200" height="70" fill="#EFE9DF"/>
 <g clip-path="url(#marquee)">
 <text x="32" y="582" textLength="1108" lengthAdjust="spacingAndGlyphs" mask="url(#typing-mask)" font-family="Consolas,monospace" font-size="16" font-weight="700" fill="#9C4B26">FULL STACK DEVELOPER IN TRAINING  •  WEB DESIGN  •  WEBSITES  •  WEB APPLICATIONS  •  CUSTOM SOFTWARE  •  AI AUTOMATION  •</text>
