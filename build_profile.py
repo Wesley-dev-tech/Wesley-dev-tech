@@ -9,7 +9,7 @@ PALETTES = {
     'dark': dict(bg='#161513', panel='#1F1D1A', text='#ECE7DD', muted='#A39D91', accent='#D4895F'),
     'light': dict(bg='#F7F4EE', panel='#EFE9DF', text='#1F1D1A', muted='#5C574E', accent='#9C4B26'),
 }
-MARQUEE = 'FULL STACK DEVELOPER IN OPLEIDING • WEBDESIGN • WEBSITES • WEBAPPLICATIES • SOFTWARE OP MAAT • AI AUTOMATISERING • '
+MARQUEE = 'FULL STACK DEVELOPER IN TRAINING • WEB DESIGN • WEBSITES • WEB APPLICATIONS • CUSTOM SOFTWARE • AI AUTOMATION • '
 MARQUEE_PERIOD = 1440
 
 def text(x, y, content, size=20, color='text', weight='400', mono=False, extra=''):
@@ -26,48 +26,47 @@ def svg(theme, name, height, body, description):
     (ASSETS / f'{name}-{theme}.svg').write_text(result)
 
 for theme in PALETTES:
-    hero = '''
+    hero = """
 <style>
- .pulse{animation:pulse 2.4s ease-in-out infinite}.cursor{animation:cursor 1.3s steps(1) infinite}.packet{stroke-dasharray:12 160;animation:flow 9s linear infinite}.ticker{animation:ticker 30s linear infinite}
- .scene-a{animation:scene-a 18s infinite}.scene-b{opacity:0;animation:scene-b 18s infinite}.scene-c{opacity:0;animation:scene-c 18s infinite}.meter{transform-origin:22px 228px;animation:meter 6s ease-in-out infinite}
- @keyframes pulse{50%{opacity:.35}} @keyframes cursor{50%{opacity:0}} @keyframes flow{to{stroke-dashoffset:-688}} @keyframes ticker{to{transform:translateX(-1440px)}}
- @keyframes scene-a{0%,28%,100%{opacity:1}33%,94%{opacity:0}}@keyframes scene-b{0%,28%,66%,100%{opacity:0}34%,60%{opacity:1}}@keyframes scene-c{0%,60%,100%{opacity:0}67%,94%{opacity:1}}
- @keyframes meter{0%,100%{transform:scaleX(.2)}80%{transform:scaleX(1)}}
- @media(prefers-reduced-motion:reduce){.pulse,.cursor,.packet,.ticker,.scene-a,.scene-b,.scene-c,.meter{animation:none}.scene-a{opacity:1}.scene-b,.scene-c{opacity:0}}
+.pulse{animation:pulse 3s ease-in-out infinite}.cursor{animation:cursor 1.3s steps(1) infinite}.packet{stroke-dasharray:12 160;animation:flow 9s linear infinite}.ticker{animation:ticker 30s linear infinite}
+.scene-a{animation:scene-a 24s infinite}.scene-b{opacity:0;animation:scene-b 24s infinite}.scene-c{opacity:0;animation:scene-c 24s infinite}.meter{transform-origin:22px 334px;animation:meter 8s ease-in-out infinite}.train{animation:train 16s linear infinite}
+@keyframes pulse{50%{opacity:.35}}@keyframes cursor{50%{opacity:0}}@keyframes flow{to{stroke-dashoffset:-688}}@keyframes ticker{to{transform:translateX(-1440px)}}
+@keyframes scene-a{0%,28%,100%{opacity:1}33%,94%{opacity:0}}@keyframes scene-b{0%,28%,66%,100%{opacity:0}34%,60%{opacity:1}}@keyframes scene-c{0%,60%,100%{opacity:0}67%,94%{opacity:1}}@keyframes meter{0%,100%{transform:scaleX(.2)}80%{transform:scaleX(1)}}@keyframes train{from{transform:translateX(-110px)}to{transform:translateX(670px)}}
+@media(prefers-reduced-motion:reduce){.pulse,.cursor,.packet,.ticker,.scene-a,.scene-b,.scene-c,.meter,.train{animation:none}.scene-a{opacity:1}.scene-b,.scene-c{opacity:0}}
 </style>
-<defs><clipPath id="ticker-clip"><rect x="40" y="382" width="1120" height="52" rx="4"/></clipPath></defs>
-<rect width="1200" height="570" rx="18" fill="{bg}"/>
-<rect x="1" y="1" width="1198" height="568" rx="18" fill="none" stroke="{muted}" stroke-opacity=".25"/>
-<path d="M40 68H1160" stroke="{muted}" stroke-opacity=".3"/>
-<rect x="40" y="24" width="32" height="28" rx="4" fill="{accent}"/>
-'''+text(44,44,'WB',16,'bg','700',True)+text(86,44,'WESLEY DEV & TECH',16,'muted','400',True)+text(900,44,'BELGIUM / LEARNING BY BUILDING',12,'muted','400',True)+'''
+<defs><clipPath id="ticker-clip"><rect x="40" y="490" width="1120" height="52" rx="4"/></clipPath><clipPath id="city-clip"><rect x="40" y="352" width="640" height="115"/></clipPath></defs>
+<rect width="1200" height="680" rx="18" fill="{bg}"/><rect x="1" y="1" width="1198" height="678" rx="18" fill="none" stroke="{muted}" stroke-opacity=".25"/>
+<path d="M40 68H1160" stroke="{muted}" stroke-opacity=".3"/><rect x="40" y="24" width="32" height="28" rx="4" fill="{accent}"/>
+""" + text(44,44,'WB',16,'bg','700',True)+text(86,44,'WESLEY DEV & TECH',16,'muted','400',True)+text(900,44,'BELGIUM / LEARNING BY BUILDING',12,'muted','400',True)+"""
 <circle cx="52" cy="107" r="4" fill="{accent}" class="pulse"/>
-'''+text(66,112,'FULL STACK & AI AUTOMATION / IN TRAINING',15,'accent','400',True)+text(40,208,'WESLEY',94,'text','700',False,'letter-spacing="-5"')+text(40,302,'DEV & TECH.',94,'accent','700',False,'letter-spacing="-5"')+text(44,347,'Business understanding. Built into code.',24,'muted')+'''
-<g transform="translate(752 100)">
- <rect width="408" height="251" rx="12" fill="{panel}" stroke="{muted}" stroke-opacity=".28"/>
- <path d="M0 42H408" stroke="{muted}" stroke-opacity=".25"/>
- <circle cx="22" cy="21" r="4" fill="{accent}"/><circle cx="38" cy="21" r="4" fill="{muted}" opacity=".5"/><circle cx="54" cy="21" r="4" fill="{muted}" opacity=".3"/>
-'''+text(80,26,'wesley / learning lab',13,'muted','400',True)+'''
-<g class="scene-a">
-'''+text(22,78,'// 01 / WEB DEVELOPMENT',15,'accent','400',True)+text(22,112,'const developer = {',17,'text','400',True)+text(40,144,'name: "Wesley",',17,'text','400',True)+text(40,176,'mindset: "keep learning"',17,'text','400',True)+text(22,211,'};',18,'accent','400',True)+'''
-</g><g class="scene-b">
-'''+text(22,78,'-- 02 / MYSQL & DATA',15,'accent','400',True)+text(22,112,'SELECT project, skills',17,'text','400',True)+text(22,144,'FROM learning_projects',17,'text','400',True)+text(22,176,'WHERE curiosity = TRUE;',17,'text','400',True)+text(22,211,'-- learning by querying',14,'muted','400',True)+'''
-</g><g class="scene-c">
-'''+text(22,78,'// 03 / AI AUTOMATION',15,'accent','400',True)+text(22,112,'understand(process);',17,'text','400',True)+text(22,144,'explore(automation);',17,'text','400',True)+text(22,176,'build(test(improve()));',17,'text','400',True)+text(22,211,'// one useful step at a time',14,'muted','400',True)+'''
-</g><rect x="22" y="228" width="360" height="2" rx="1" fill="{accent}" class="meter"/>
-<rect x="377" y="20" width="7" height="13" fill="{accent}" class="cursor"/>
-</g>
-<rect x="40" y="382" width="1120" height="52" rx="4" fill="{panel}"/>
-<g clip-path="url(#ticker-clip)"><g class="ticker">
-'''+''.join(text(64+i*MARQUEE_PERIOD,414,MARQUEE,18,'accent','400',True,'textLength="1416" lengthAdjust="spacingAndGlyphs"') for i in range(3))+'''
-</g></g>
-<path d="M190 505H1010" fill="none" stroke="{muted}" stroke-opacity=".3" stroke-width="2"/>
-<path d="M190 505H1010" fill="none" stroke="{accent}" stroke-width="3" class="packet"/>
-'''
-    for x, n, label, sub in [(64,'01','FINANCE','Where I started'),(466,'02','DEVELOPMENT','What I am learning'),(868,'03','USEFUL SOFTWARE','What I want to build')]:
-        hero += f'<rect x="{x}" y="471" width="268" height="74" rx="6" fill="{{bg}}" stroke="{{muted}}" stroke-opacity=".3"/>'
-        hero += text(x+14,498,n,13,'accent','400',True)+text(x+49,498,label,15,'text','700',True)+text(x+49,523,sub,14,'muted')
-    svg(theme,'header',570,hero,'Wesley Dev & Tech. Full Stack & AI Automation Developer in training. From finance to useful software.')
+"""+text(66,112,'FULL STACK & AI AUTOMATION / IN TRAINING',15,'accent','400',True)+text(40,202,'WESLEY',94,'text','700',False,'letter-spacing="-5"')+text(40,292,'DEV & TECH.',94,'accent','700',False,'letter-spacing="-5"')+text(44,333,'From curiosity to code. One project at a time.',23,'muted')
+    # Original copper skyline: a quiet nod to the animated city in the reference.
+    hero += '<g clip-path="url(#city-clip)"><g fill="{panel}" stroke="{muted}" stroke-opacity=".3" stroke-width="1">'
+    for x,y,w in [(48,393,70),(130,369,68),(215,385,58),(290,356,82),(389,377,65),(470,366,72),(559,389,55),(626,375,45)]:
+        hero += f'<path d="M{x} 450V{y}h{w}v{450-y}"/>'
+        for wx in range(x+12,x+w-7,18):
+            for wy in range(y+13,438,17):
+                hero += f'<rect x="{wx}" y="{wy}" width="5" height="5" fill="{{accent}}" stroke="none" opacity=".45"/>'
+    hero += '</g><path d="M40 451H680M40 464H680" stroke="{muted}" stroke-opacity=".4"/><g transform="translate(40 0)"><g class="train" fill="{bg}" stroke="{accent}" stroke-width="1.5"><rect x="0" y="443" width="104" height="18" rx="4"/><path d="M10 448h12m6 0h12m6 0h12m6 0h12m6 0h12"/><circle cx="18" cy="462" r="2"/><circle cx="86" cy="462" r="2"/></g></g></g>'
+    hero += """<g transform="translate(720 100)"><rect width="440" height="355" rx="12" fill="{panel}" stroke="{muted}" stroke-opacity=".28"/><path d="M0 42H440" stroke="{muted}" stroke-opacity=".25"/><circle cx="22" cy="21" r="4" fill="{accent}"/><circle cx="38" cy="21" r="4" fill="{muted}" opacity=".5"/><circle cx="54" cy="21" r="4" fill="{muted}" opacity=".3"/>"""+text(80,26,'wesley / developer.config',13,'muted','400',True)
+    scenes = [
+        ('a','// 01 / THE DEVELOPER', ['const wesley = {','  location: "Balen, Belgium",','  school: "SyntraPXL",','  training: "Full Stack & AI",','  background: "finance",','  mindset: "keep learning"','};']),
+        ('b','// 02 / LEARNING TOOLBOX', ['const learning = {','  frontend: ["HTML", "CSS", "JS"],','  data: ["MySQL", "SQL joins"],','  layout: ["Flexbox", "Grid"],','  workflow: ["Git", "Scrum"],','  next: ["TypeScript", "APIs"]','};']),
+        ('c','// 03 / HOW I APPROACH CODE', ['understand(theProblem);','build(aSmallSolution);','test(theResult);','learn(fromFeedback);','improve(theCode);','repeat();','// AI supports understanding.'])
+    ]
+    for key,title,lines in scenes:
+        hero += f'<g class="scene-{key}">' + text(22,76,title,15,'accent','400',True)
+        for i,line in enumerate(lines):
+            hero += text(22,112+i*29,line,16,'text' if not line.startswith('//') else 'muted','400',True,'xml:space="preserve"')
+        hero += '</g>'
+    hero += '<rect x="22" y="334" width="396" height="2" rx="1" fill="{accent}" class="meter"/><rect x="409" y="20" width="7" height="13" fill="{accent}" class="cursor"/></g>'
+    hero += '<rect x="40" y="490" width="1120" height="52" rx="4" fill="{panel}"/><g clip-path="url(#ticker-clip)"><g class="ticker">'
+    hero += ''.join(text(64+i*MARQUEE_PERIOD,522,MARQUEE,18,'accent','400',True,'textLength="1416" lengthAdjust="spacingAndGlyphs"') for i in range(3))
+    hero += '</g></g><path d="M190 615H1010" fill="none" stroke="{muted}" stroke-opacity=".3" stroke-width="2"/><path d="M190 615H1010" fill="none" stroke="{accent}" stroke-width="3" class="packet"/>'
+    for x,n,label,sub in [(64,'01','FINANCE','Where I started'),(466,'02','FULL STACK DEVELOPER','What I am learning'),(868,'03','USEFUL SOFTWARE','What I want to build')]:
+        hero += f'<rect x="{x}" y="581" width="268" height="74" rx="6" fill="{{bg}}" stroke="{{muted}}" stroke-opacity=".3"/>'
+        hero += text(x+14,608,n,13,'accent','400',True)+text(x+49,608,label,14,'text','700',True)+text(x+49,633,sub,14,'muted')
+    svg(theme,'header',680,hero,'Wesley Dev & Tech. From curiosity to code. Full Stack Developer in training with a finance background.')
 
     divider='''<style>.signal{animation:signal 8s linear infinite;stroke-dasharray:50 1150}@keyframes signal{to{stroke-dashoffset:-1200}}@media(prefers-reduced-motion:reduce){.signal{animation:none}}</style><path d="M0 17H1200" stroke="{muted}" stroke-opacity=".25"/><path d="M0 17H1200" stroke="{accent}" stroke-width="2" class="signal"/><rect x="562" y="0" width="76" height="34" rx="4" fill="{bg}"/>'''+text(577,24,'</>',22,'accent','400',True)
     svg(theme,'divider',34,divider,'Wesley Dev & Tech animated code divider')
