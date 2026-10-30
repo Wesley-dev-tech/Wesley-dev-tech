@@ -54,8 +54,8 @@ const wesley = {
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/learning-lab-light.svg?v=3">
-  <img src="./assets/learning-lab-dark.svg?v=3" alt="My learning lab: web interfaces, data and logic, and AI automation. Animated illustrations of the areas I am learning." width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/9008141144d1b77f097d374a327f09e4954b32b7/assets/learning-lab-light.svg">
+  <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/9008141144d1b77f097d374a327f09e4954b32b7/assets/learning-lab-dark.svg" alt="My learning lab: web interfaces, data and logic, and AI automation. Animated illustrations of the areas I am learning." width="100%">
 </picture>
 
 ## 02 / Less talk, more projects
