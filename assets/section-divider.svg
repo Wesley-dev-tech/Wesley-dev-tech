@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="Section divider">
+<title>Wesley Dev &amp; Tech section divider</title>
+<style>
+  .copper { stroke: #9C4B26; fill: #9C4B26; }
+  .stop { stop-color: #9C4B26; }
+  @media (prefers-color-scheme: dark) {
+    .copper { stroke: #D4895F; fill: #D4895F; }
+    .stop { stop-color: #D4895F; }
+  }
+</style>
+<defs>
+  <linearGradient id="left"><stop class="stop" stop-opacity="0"/><stop class="stop" offset="1" stop-opacity=".72"/></linearGradient>
+  <linearGradient id="right"><stop class="stop" stop-opacity=".72"/><stop class="stop" offset="1" stop-opacity="0"/></linearGradient>
+</defs>
+<path d="M0 12H583" stroke="url(#left)" stroke-width="1.5"/>
+<path d="M617 12H1200" stroke="url(#right)" stroke-width="1.5"/>
+<path class="copper" d="M594 12l6-6 6 6-6 6z" fill="none" stroke-width="1.5"/>
+<circle class="copper" cx="600" cy="12" r="1.5"/>
+</svg>
