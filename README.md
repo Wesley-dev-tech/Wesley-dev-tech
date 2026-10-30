@@ -5,7 +5,21 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/2d8a95f83dce895f279ff9cd7054921b240907d6/assets/divider-light.svg">
+    <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/50a5580d9769dd9917190037ba788c2a1fdb4653/assets/divider-dark.svg" alt="Static copper code divider" width="100%">
+  </picture>
+</p>
+
 <p align="center"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/85f7bdad913c296520f9b2214f11b700c01ffe22/assets/quote-icon.svg" width="17" height="17" align="absmiddle" alt="" /> <strong><em>Learning without thought is labour lost; thought without learning is perilous.</em></strong><br><em>Learn by building. Test what works. Improve what doesn’t.</em></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/2d8a95f83dce895f279ff9cd7054921b240907d6/assets/divider-light.svg">
+    <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/50a5580d9769dd9917190037ba788c2a1fdb4653/assets/divider-dark.svg" alt="Static copper code divider" width="100%">
+  </picture>
+</p>
 
 ### <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/11476363ce1fc12f336e372a5a2aa2aac83c5b01/assets/terminal-hello.svg" width="21" height="21" align="absmiddle" alt="" /> Hi there, I'm Wesley.
 
