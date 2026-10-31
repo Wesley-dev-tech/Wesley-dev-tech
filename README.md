@@ -60,19 +60,19 @@
 ### Frontend
 
 <p>
-  <img src="./assets/skills/html5.svg" alt="HTML" title="HTML" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/css.svg" alt="CSS" title="CSS" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/react.svg" alt="React" title="React" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/angular.svg" alt="Angular" title="Angular" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/vite.svg" alt="Vite" title="Vite" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/tailwindcss.svg" alt="Tailwind" title="Tailwind" width="40" height="40">&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/nextdotjs-dark.svg"><img src="./assets/skills/nextdotjs.svg" alt="Next.js" title="Next.js" width="40" height="40"></picture>&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/vercel-dark.svg"><img src="./assets/skills/vercel.svg" alt="Vercel" title="Vercel" width="40" height="40"></picture>&nbsp;&nbsp;
-  <img src="./assets/skills/netlify.svg" alt="Netlify" title="Netlify" width="40" height="40">&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/apachecordova-dark.svg"><img src="./assets/skills/apachecordova.svg" alt="Apache Cordova" title="Apache Cordova" width="40" height="40"></picture>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" alt="HTML" title="HTML" width="40" height="40">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg" alt="CSS" title="CSS" width="40" height="40">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" width="40" height="40">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" width="40" height="40">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" alt="React" title="React" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Angular-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Angular-Dark.svg" alt="Angular" title="Angular" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vite-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vite-Dark.svg" alt="Vite" title="Vite" width="40" height="40"></picture>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TailwindCSS-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TailwindCSS-Dark.svg" alt="Tailwind" title="Tailwind" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NextJS-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NextJS-Dark.svg" alt="Next.js" title="Next.js" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vercel-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vercel-Dark.svg" alt="Vercel" title="Vercel" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Netlify-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Netlify-Dark.svg" alt="Netlify" title="Netlify" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills/tile-apachecordova-light.svg"><img src="./assets/skills/tile-apachecordova-dark.svg" alt="Apache Cordova" title="Apache Cordova" width="40" height="40"></picture>&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -80,15 +80,15 @@
 ### Backend
 
 <p>
-  <img src="./assets/skills/nodedotjs.svg" alt="Node.js" title="Node.js" width="40" height="40">&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/express-dark.svg"><img src="./assets/skills/express.svg" alt="Express.js" title="Express.js" width="40" height="40"></picture>&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php&amp;theme=light"><img src="https://skillicons.dev/icons?i=php&amp;theme=dark" alt="PHP" title="PHP" width="40" height="40"></picture>&nbsp;&nbsp;
-  <img src="./assets/skills/laravel.svg" alt="Laravel" title="Laravel" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/hono.svg" alt="Hono.js" title="Hono.js" width="40" height="40">&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fastify-dark.svg"><img src="./assets/skills/fastify.svg" alt="Fastify.js" title="Fastify.js" width="40" height="40"></picture>&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&amp;theme=light"><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" alt="Python" title="Python" width="40" height="40"></picture>&nbsp;&nbsp;
-  <img src="./assets/skills/mysql.svg" alt="MySQL" title="MySQL" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/supabase.svg" alt="Supabase" title="Supabase" width="40" height="40">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NodeJS-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NodeJS-Dark.svg" alt="Node.js" title="Node.js" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ExpressJS-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ExpressJS-Dark.svg" alt="Express.js" title="Express.js" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/PHP-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/PHP-Dark.svg" alt="PHP" title="PHP" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Laravel-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Laravel-Dark.svg" alt="Laravel" title="Laravel" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills/tile-hono-light.svg"><img src="./assets/skills/tile-hono-dark.svg" alt="Hono.js" title="Hono.js" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills/tile-fastify-light.svg"><img src="./assets/skills/tile-fastify-dark.svg" alt="Fastify.js" title="Fastify.js" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Dark.svg" alt="Python" title="Python" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MySQL-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Supabase-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Supabase-Dark.svg" alt="Supabase" title="Supabase" width="40" height="40"></picture>&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -96,18 +96,21 @@
 ### Tools & Development
 
 <p>
-  <img src="./assets/skills/git.svg" alt="Git" title="Git" width="40" height="40">  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/github-dark.svg"><img src="./assets/skills/github.svg" alt="GitHub" title="GitHub" width="40" height="40"></picture>&nbsp;&nbsp;
-  <img src="./assets/skills/githubactions.svg" alt="GitHub Actions (CI/CD)" title="GitHub Actions (CI/CD)" width="40" height="40">&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/githubcopilot-dark.svg"><img src="./assets/skills/githubcopilot.svg" alt="GitHub Copilot" title="GitHub Copilot" width="40" height="40"></picture>&nbsp;&nbsp;
-  <img src="./assets/skills/jira.svg" alt="Jira" title="Jira" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/trello.svg" alt="Trello" title="Trello" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/clickup.svg" alt="ClickUp" title="ClickUp" width="40" height="40">&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/notion-dark.svg"><img src="./assets/skills/notion.svg" alt="Notion" title="Notion" width="40" height="40"></picture>&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/cursor-dark.svg"><img src="./assets/skills/cursor.svg" alt="Cursor" title="Cursor" width="40" height="40"></picture>&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/openai-dark.svg"><img src="./assets/skills/openai.svg" alt="OpenAI API (ChatGPT &amp; Whisper)" title="OpenAI API (ChatGPT &amp; Whisper)" width="40" height="40"></picture>&nbsp;&nbsp;
-  <img src="./assets/skills/vitest.svg" alt="Vitest" title="Vitest" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/jest.svg" alt="Jest" title="Jest" width="40" height="40">&nbsp;&nbsp;
-  <img src="./assets/skills/insomnia.svg" alt="Insomnia" title="Insomnia" width="40" height="40">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg" alt="Git" title="Git" width="40" height="40">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Dark.svg" alt="GitHub" title="GitHub" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GithubActions-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GithubActions-Dark.svg" alt="GitHub Actions (CI/CD)" title="GitHub Actions (CI/CD)" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills/tile-githubcopilot-light.svg"><img src="./assets/skills/tile-githubcopilot-dark.svg" alt="GitHub Copilot" title="GitHub Copilot" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Jenkins-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Jenkins-Dark.svg" alt="Jenkins" title="Jenkins" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Linux-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Linux-Dark.svg" alt="Linux" title="Linux" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills/tile-jira-light.svg"><img src="./assets/skills/tile-jira-dark.svg" alt="Jira" title="Jira" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills/tile-trello-light.svg"><img src="./assets/skills/tile-trello-dark.svg" alt="Trello" title="Trello" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills/tile-clickup-light.svg"><img src="./assets/skills/tile-clickup-dark.svg" alt="ClickUp" title="ClickUp" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Notion-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Notion-Dark.svg" alt="Notion" title="Notion" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills/tile-cursor-light.svg"><img src="./assets/skills/tile-cursor-dark.svg" alt="Cursor" title="Cursor" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills/tile-openai-light.svg"><img src="./assets/skills/tile-openai-dark.svg" alt="OpenAI API (ChatGPT &amp; Whisper)" title="OpenAI API (ChatGPT &amp; Whisper)" width="40" height="40"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vitest-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vitest-Dark.svg" alt="Vitest" title="Vitest" width="40" height="40"></picture>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Jest.svg" alt="Jest" title="Jest" width="40" height="40">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills/tile-insomnia-light.svg"><img src="./assets/skills/tile-insomnia-dark.svg" alt="Insomnia" title="Insomnia" width="40" height="40"></picture>&nbsp;&nbsp;
 </p>
 
 <hr>
