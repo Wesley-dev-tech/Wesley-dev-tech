@@ -21,6 +21,8 @@
   </picture>
 </p>
 
+## <img src="./assets/icon-about.svg" width="24" height="24" align="absmiddle" alt="" /> About me
+
 ### <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/11476363ce1fc12f336e372a5a2aa2aac83c5b01/assets/terminal-hello.svg" width="22" height="22" align="absmiddle" alt="" /> Hi there, I'm Wesley.
 
 <img src="./assets/icon-graduation.svg" width="18" height="18" align="absmiddle" alt="" /> I'm following the full-time **Full Stack & AI Automation Developer** course at SyntraPXL. After several years in accounting and administration, I swapped spreadsheets for stylesheets — and kept my appreciation for clean data. Now I'm learning to build websites, web applications and software tailored to real needs.
