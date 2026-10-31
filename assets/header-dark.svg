@@ -68,7 +68,7 @@
 <path d="M992 306v22m-56 0h112" stroke="#514B43" stroke-width="8" stroke-linecap="round"/>
 <rect x="0" y="486" width="1200" height="54" fill="#1F1D1A"/>
 <g clip-path="url(#marquee)">
-<text x="32" y="523" textLength="1108" lengthAdjust="spacingAndGlyphs" mask="url(#typing-mask)" font-family="Consolas,monospace" font-size="16" font-weight="700" fill="#D4895F">FULL STACK DEVELOPER IN TRAINING  •  WEB DESIGN  •  WEBSITES  •  WEB APPLICATIONS  •  CUSTOM SOFTWARE  •  AI AUTOMATION  •</text>
+<text x="32" y="523" textLength="1108" lengthAdjust="spacingAndGlyphs" mask="url(#typing-mask)" font-family="Consolas,monospace" font-size="16" font-weight="700" fill="#D4895F">FULL STACK DEVELOPER IN TRAINING  •  WEB DESIGN  •  WEBSITES  •  WEB APPLICATIONS  •  CUSTOM SOFTWARE  •  AI AUTOMATION</text>
 <rect x="32" y="502" width="3" height="25" fill="#D4895F" class="caret"/>
 </g>
 </svg>
