@@ -100,7 +100,6 @@
   <img src="./assets/skills/githubactions.svg" alt="GitHub Actions (CI/CD)" title="GitHub Actions (CI/CD)" width="40" height="40">&nbsp;&nbsp;
   <img src="./assets/skills/jira.svg" alt="Jira" title="Jira" width="40" height="40">&nbsp;&nbsp;
   <img src="./assets/skills/trello.svg" alt="Trello" title="Trello" width="40" height="40">&nbsp;&nbsp;
-  <strong title="Monday">Monday</strong>&nbsp;&nbsp;
   <img src="./assets/skills/clickup.svg" alt="ClickUp" title="ClickUp" width="40" height="40">&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/notion-dark.svg"><img src="./assets/skills/notion.svg" alt="Notion" title="Notion" width="40" height="40"></picture>&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/githubcopilot-dark.svg"><img src="./assets/skills/githubcopilot.svg" alt="GitHub Copilot" title="GitHub Copilot" width="40" height="40"></picture>&nbsp;&nbsp;
@@ -114,6 +113,8 @@
 <hr>
 
 ### Concepts & Methodologies
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-list-check-dark.svg"><img src="./assets/skills/fa-list-check.svg" alt="" width="18" height="18"></picture> <strong>Monday</strong> — a work management platform for organizing tasks, tracking progress and coordinating team projects.</p>
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-people-group-dark.svg"><img src="./assets/skills/fa-people-group.svg" alt="" width="18" height="18"></picture> <strong>Scrum</strong> — an Agile framework for planning work in sprints, reviewing progress and improving as a team.</p>
 
