@@ -141,7 +141,7 @@ Curious what I've built so far? Explore my portfolio or say hi on WhatsApp. I'm 
 <br>
 
 <p align="center">
-  <a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-portfolio.svg" alt="Portfolio" width="150"></a>
-  <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="./assets/button-linkedin.svg" alt="LinkedIn" width="150"></a>
-  <a href="https://wa.me/32472254248"><img src="./assets/button-whatsapp.svg" alt="WhatsApp" width="150"></a>
+  <a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/cbc4b1f553161e70981b097cf0dbfa34de1735b3/assets/button-portfolio.svg" alt="Portfolio" width="150"></a>
+  <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/cbc4b1f553161e70981b097cf0dbfa34de1735b3/assets/button-linkedin.svg" alt="LinkedIn" width="150"></a>
+  <a href="https://wa.me/32472254248"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/cbc4b1f553161e70981b097cf0dbfa34de1735b3/assets/button-whatsapp.svg" alt="WhatsApp" width="150"></a>
 </p>
