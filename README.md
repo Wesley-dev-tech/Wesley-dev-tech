@@ -12,7 +12,7 @@
   </picture>
 </p>
 
-<p align="center"><img src="./assets/icon-scroll.svg" width="18" height="18" align="absmiddle" alt="" /> <strong><em>I hear and I forget. I see and I remember. I do and I understand.</em></strong> — Confucius<br><img src="./assets/icon-hammer.svg" width="18" height="18" align="absmiddle" alt="" /> <em>Learn by building. Test what works. Improve what doesn’t.</em></p>
+<p align="center"><img src="./assets/icon-scroll.svg" width="18" height="18" align="absmiddle" alt="" /> <strong><em>I hear and I forget. I see and I remember. I do and I understand.</em></strong><br><img src="./assets/icon-hammer.svg" width="18" height="18" align="absmiddle" alt="" /> <em>Learn by building. Test what works. Improve what doesn’t.</em></p>
 
 <p align="center">
   <picture>
