@@ -134,9 +134,11 @@
 
 ## 📬 Let's connect
 
-I'm looking for opportunities to keep learning alongside experienced developers and to build software that solves real problems.
+🤝 Finance taught me to keep data tidy. Full-stack training taught me that a missing bracket can hide in plain sight. 🐛 I'm looking for a team to learn from and build useful software with.
+
+Curious what I've built so far? Explore my portfolio or say hi on LinkedIn. I'm always up for a chat about code, good ideas, and the occasional `works on my machine` mystery. ☕
 
 <p align="center">
-  <a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-portfolio.svg" alt="Portfolio" width="180"></a>
-  <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="./assets/button-linkedin.svg" alt="LinkedIn" width="180"></a>
+  <a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-portfolio.svg" alt="Portfolio" width="220"></a>
+  <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="./assets/button-linkedin.svg" alt="LinkedIn" width="220"></a>
 </p>
