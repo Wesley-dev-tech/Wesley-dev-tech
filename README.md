@@ -21,7 +21,7 @@
   </picture>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/11476363ce1fc12f336e372a5a2aa2aac83c5b01/assets/terminal-hello.svg" width="21" height="21" align="absmiddle" alt="" /> Hi there, I'm Wesley.
+### <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/11476363ce1fc12f336e372a5a2aa2aac83c5b01/assets/terminal-hello.svg" width="22" height="22" align="absmiddle" alt="" /> Hi there, I'm Wesley.
 
 <img src="./assets/icon-graduation.svg" width="18" height="18" align="absmiddle" alt="" /> I'm following the full-time **Full Stack & AI Automation Developer** course at SyntraPXL. After several years in accounting and administration, I swapped spreadsheets for stylesheets — and kept my appreciation for clean data. Now I'm learning to build websites, web applications and software tailored to real needs.
 
@@ -36,7 +36,7 @@
   </picture>
 </p>
 
-## <img src="./assets/icon-gear.svg" width="22" height="22" align="absmiddle" alt="" /> What I'm focused on
+## <img src="./assets/icon-gear.svg" width="24" height="24" align="absmiddle" alt="" /> What I'm focused on
 
 - <img src="./assets/icon-frontend.svg" width="18" height="18" align="absmiddle" alt="" /> **Frontend** — building clear, responsive interfaces with HTML, CSS and JavaScript, and stepping up to React, Angular and Tailwind. “It works on my screen” isn't the finish line.
 
@@ -63,7 +63,7 @@
   </picture>
 </p>
 
-## <img src="./assets/icon-laptop.svg" width="22" height="22" align="absmiddle" alt="" /> My Tech Stack
+## <img src="./assets/icon-laptop.svg" width="24" height="24" align="absmiddle" alt="" /> My Tech Stack
 
 ### Frontend
 
@@ -125,13 +125,19 @@
 
 ### Concepts & Methodologies
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-list-check-dark.svg"><img src="./assets/skills/fa-list-check.svg" alt="" width="18" height="18"></picture> <strong>Monday</strong> — this is where I plan my tasks, track how far a project has come and coordinate the work when we work as a team.</p>
+- <img src="./assets/icon-monday.svg" width="18" height="18" align="absmiddle" alt="" /> **Monday** — this is where I plan my tasks, track how far a project has come and coordinate the work when we work as a team.
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-people-group-dark.svg"><img src="./assets/skills/fa-people-group.svg" alt="" width="18" height="18"></picture> <strong>Scrum</strong> — in class I work in sprints: we estimate tasks with planning poker, track them on a Kanban board in Trello and discuss what could be better after every sprint.</p>
+##
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-plug-dark.svg"><img src="./assets/skills/fa-plug.svg" alt="" width="18" height="18"></picture> <strong>REST API</strong> — with JavaScript I request data through HTTP requests and show the API's response on my page.</p>
+- <img src="./assets/icon-scrum.svg" width="18" height="18" align="absmiddle" alt="" /> **Scrum** — in class I work in sprints: we estimate tasks with planning poker, track them on a Kanban board in Trello and discuss what could be better after every sprint.
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-cubes-dark.svg"><img src="./assets/skills/fa-cubes.svg" alt="" width="18" height="18"></picture> <strong>MCP</strong> — I use it to connect AI assistants to my own tools, such as GitHub and Google Drive, so they can work directly with my files and data.</p>
+##
+
+- <img src="./assets/icon-api.svg" width="18" height="18" align="absmiddle" alt="" /> **REST API** — with JavaScript I request data through HTTP requests and show the API's response on my page.
+
+##
+
+- <img src="./assets/icon-mcp.svg" width="18" height="18" align="absmiddle" alt="" /> **MCP** — I use it to connect AI assistants to my own tools, such as GitHub and Google Drive, so they can work directly with my files and data.
 
 <p align="center">
   <picture>
@@ -140,11 +146,11 @@
   </picture>
 </p>
 
-## <img src="./assets/icon-mail.svg" width="22" height="22" align="absmiddle" alt="" /> Let's connect
+## <img src="./assets/icon-mail.svg" width="24" height="24" align="absmiddle" alt="" /> Let's connect
 
-<img src="./assets/icon-team.svg" width="18" height="18" align="absmiddle" alt="" /> Finance taught me to keep data tidy. Full-stack training taught me that a missing bracket can hide in plain sight. <img src="./assets/icon-bug.svg" width="16" height="16" align="absmiddle" alt="" /> I'm looking for a team to learn from and build useful software with.
+<img src="./assets/icon-team.svg" width="18" height="18" align="absmiddle" alt="" /> Finance taught me to keep data tidy. Full-stack training taught me that a missing bracket can hide in plain sight. <img src="./assets/icon-bug.svg" width="18" height="18" align="absmiddle" alt="" /> I'm looking for a team to learn from and build useful software with.
 
-Curious what I've built so far? Explore my portfolio or say hi on WhatsApp. I'm always up for a chat about code, good ideas, and the occasional `works on my machine` mystery. <img src="./assets/icon-coffee.svg" width="16" height="16" align="absmiddle" alt="" />
+Curious what I've built so far? Explore my portfolio or say hi on WhatsApp. I'm always up for a chat about code, good ideas, and the occasional `works on my machine` mystery. <img src="./assets/icon-coffee.svg" width="18" height="18" align="absmiddle" alt="" />
 
 <br>
 
