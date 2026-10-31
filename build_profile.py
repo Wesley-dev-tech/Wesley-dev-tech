@@ -118,11 +118,19 @@ BUTTONS = {
     'all-projects': ('ALL REPOSITORIES', '<path d="M18 16h11l3 4h20v17H18zM22 11h24v9"/>'),
     'top': ('BACK TO TOP', '<path d="M20 15h22M31 36V21m-9 8 9-9 9 9"/>'),
 }
+# Left edge of each icon and the width of its label (Arial Bold 13px, letter-spacing .6).
+CENTRED={'portfolio':(17,80.6),'linkedin':(17,65.6),'whatsapp':(17,77.6)}
 for key,(label,icon) in BUTTONS.items():
     width=222 if key=='all-projects' else 190
-    # Contact buttons centre their label inside the button; the others keep it beside the icon.
-    text_pos=f'x="{width/2:g}" y="28" text-anchor="middle"' if key in ('portfolio','linkedin','whatsapp') else 'x="59" y="28"'
-    button=f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="46" viewBox="0 0 {width} 46" role="img" aria-label="{label}"><rect x="1" y="1" width="{width-2}" height="44" rx="7" fill="#D4895F"/><g fill="none" stroke="#161513" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">{icon}</g><text {text_pos} font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing=".6" fill="#161513">{label}</text></svg>\n'
+    icon_shift=''
+    text_pos='x="59" y="28"'
+    if key in CENTRED:
+        # Centre icon + label together inside the button (24px icon, 12px gap, measured label width).
+        icon_left,label_width=CENTRED[key]
+        start=(width-(24+12+label_width))/2
+        icon_shift=f' transform="translate({start-icon_left:.1f} 0)"'
+        text_pos=f'x="{start+36:.1f}" y="28"'
+    button=f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="46" viewBox="0 0 {width} 46" role="img" aria-label="{label}"><rect x="1" y="1" width="{width-2}" height="44" rx="7" fill="#D4895F"/><g fill="none" stroke="#161513" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"{icon_shift}>{icon}</g><text {text_pos} font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing=".6" fill="#161513">{label}</text></svg>\n'
     ET.fromstring(button)
     (ASSETS/f'button-{key}.svg').write_text(button)
 
