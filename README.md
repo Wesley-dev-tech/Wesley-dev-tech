@@ -59,21 +59,93 @@
 
 ### Frontend
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="HTML, CSS, JavaScript and Bootstrap">
-</picture>
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="./assets/skills/html5.svg" alt="HTML logo" width="34" height="34"><br><strong>HTML</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/css.svg" alt="CSS logo" width="34" height="34"><br><strong>CSS</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/javascript.svg" alt="JavaScript logo" width="34" height="34"><br><strong>JavaScript</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="./assets/skills/typescript.svg" alt="TypeScript logo" width="34" height="34"><br><strong>TypeScript</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/react.svg" alt="React logo" width="34" height="34"><br><strong>React</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/angular.svg" alt="Angular logo" width="34" height="34"><br><strong>Angular</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="./assets/skills/vite.svg" alt="Vite logo" width="34" height="34"><br><strong>Vite</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/bootstrap.svg" alt="Bootstrap logo" width="34" height="34"><br><strong>Bootstrap</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/tailwindcss.svg" alt="Tailwind logo" width="34" height="34"><br><strong>Tailwind</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/nextdotjs-dark.svg"><img src="./assets/skills/nextdotjs.svg" alt="Next.js logo" width="34" height="34"></picture><br><strong>Next.js</strong></td>
+    <td align="center" width="33%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/vercel-dark.svg"><img src="./assets/skills/vercel.svg" alt="Vercel logo" width="34" height="34"></picture><br><strong>Vercel</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/netlify.svg" alt="Netlify logo" width="34" height="34"><br><strong>Netlify</strong></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/apachecordova-dark.svg"><img src="./assets/skills/apachecordova.svg" alt="Apache Cordova logo" width="34" height="34"></picture><br><strong>Apache Cordova</strong></td>
+  </tr>
+</table>
 
-**Currently learning:** TypeScript · Tailwind · APIs
+<hr>
 
-### Data & workflow
+### Backend
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=light">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL, Git, GitHub and VS Code">
-</picture>
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="./assets/skills/nodedotjs.svg" alt="Node.js logo" width="34" height="34"><br><strong>Node.js</strong></td>
+    <td align="center" width="33%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/express-dark.svg"><img src="./assets/skills/express.svg" alt="Express.js logo" width="34" height="34"></picture><br><strong>Express.js</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/php.svg" alt="PHP logo" width="34" height="34"><br><strong>PHP</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="./assets/skills/laravel.svg" alt="Laravel logo" width="34" height="34"><br><strong>Laravel</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/hono.svg" alt="Hono.js logo" width="34" height="34"><br><strong>Hono.js</strong></td>
+    <td align="center" width="33%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fastify-dark.svg"><img src="./assets/skills/fastify.svg" alt="Fastify.js logo" width="34" height="34"></picture><br><strong>Fastify.js</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="./assets/skills/python.svg" alt="Python logo" width="34" height="34"><br><strong>Python</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/mysql.svg" alt="MySQL logo" width="34" height="34"><br><strong>MySQL</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/supabase.svg" alt="Supabase logo" width="34" height="34"><br><strong>Supabase</strong></td>
+  </tr>
+</table>
 
-**Also practising:** Flexbox · CSS Grid · database normalization · Scrum
+<hr>
+
+### Tools & Development
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="./assets/skills/git.svg" alt="Git logo" width="30" height="30"> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/github-dark.svg"><img src="./assets/skills/github.svg" alt="GitHub logo" width="30" height="30"></picture><br><strong>Git &amp; GitHub</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/githubactions.svg" alt="GitHub Actions (CI/CD) logo" width="34" height="34"><br><strong>GitHub Actions (CI/CD)</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/jira.svg" alt="Jira logo" width="34" height="34"><br><strong>Jira</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="./assets/skills/trello.svg" alt="Trello logo" width="34" height="34"><br><strong>Trello</strong></td>
+    <td align="center" width="33%"><strong>Monday</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/clickup.svg" alt="ClickUp logo" width="34" height="34"><br><strong>ClickUp</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/notion-dark.svg"><img src="./assets/skills/notion.svg" alt="Notion logo" width="34" height="34"></picture><br><strong>Notion</strong></td>
+    <td align="center" width="33%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/githubcopilot-dark.svg"><img src="./assets/skills/githubcopilot.svg" alt="GitHub Copilot logo" width="34" height="34"></picture><br><strong>GitHub Copilot</strong></td>
+    <td align="center" width="33%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/cursor-dark.svg"><img src="./assets/skills/cursor.svg" alt="Cursor logo" width="34" height="34"></picture><br><strong>Cursor</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/openai-dark.svg"><img src="./assets/skills/openai.svg" alt="OpenAI API (ChatGPT & Whisper) logo" width="34" height="34"></picture><br><strong>OpenAI API (ChatGPT &amp; Whisper)</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/vitest.svg" alt="Vitest logo" width="34" height="34"><br><strong>Vitest</strong></td>
+    <td align="center" width="33%"><img src="./assets/skills/jest.svg" alt="Jest logo" width="34" height="34"><br><strong>Jest</strong></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><img src="./assets/skills/insomnia.svg" alt="Insomnia logo" width="34" height="34"><br><strong>Insomnia</strong></td>
+  </tr>
+</table>
+
+<hr>
+
+### Concepts & Methodologies
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-people-group-dark.svg"><img src="./assets/skills/fa-people-group.svg" alt="" width="18" height="18"></picture> <strong>Scrum</strong> — an Agile framework for planning work in sprints, reviewing progress and improving as a team.</p>
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-plug-dark.svg"><img src="./assets/skills/fa-plug.svg" alt="" width="18" height="18"></picture> <strong>REST API</strong> — a structured way for applications to exchange data through HTTP requests and resources.</p>
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-cubes-dark.svg"><img src="./assets/skills/fa-cubes.svg" alt="" width="18" height="18"></picture> <strong>Model Context Protocol (MCP)</strong> — a standard for connecting AI applications to external tools and data sources.</p>
 
 <p align="center">
   <picture>
