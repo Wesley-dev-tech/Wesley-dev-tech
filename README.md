@@ -12,7 +12,7 @@
   </picture>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/85f7bdad913c296520f9b2214f11b700c01ffe22/assets/quote-icon.svg" width="17" height="17" align="absmiddle" alt="" /> <strong><em>Learning without thought is labour lost; thought without learning is perilous.</em></strong><br><em>Learn by building. Test what works. Improve what doesn’t.</em></p>
+<p align="center"><img src="./assets/icon-scroll.svg" width="18" height="18" align="absmiddle" alt="" /> <strong><em>I hear and I forget. I see and I remember. I do and I understand.</em></strong> — Confucius<br><img src="./assets/icon-hammer.svg" width="18" height="18" align="absmiddle" alt="" /> <em>Learn by building. Test what works. Improve what doesn’t.</em></p>
 
 <p align="center">
   <picture>
