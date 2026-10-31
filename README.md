@@ -25,9 +25,9 @@
 
 ### <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/11476363ce1fc12f336e372a5a2aa2aac83c5b01/assets/terminal-hello.svg" width="22" height="22" align="absmiddle" alt="" /> Hi there, I'm Wesley.
 
-<img src="./assets/icon-graduation.svg" width="18" height="18" align="absmiddle" alt="" /> I'm following the full-time **Full Stack & AI Automation Developer** course at SyntraPXL. After several years in accounting and administration, I swapped spreadsheets for stylesheets — and kept my appreciation for clean data. Now I'm learning to build websites, web applications and software tailored to real needs.
+<img src="./assets/icon-graduation.svg" width="18" height="18" align="absmiddle" alt="" /> I'm following the full-time **Full Stack & AI Automation Developer** course at SyntraPXL. After years in accounting, I traded `=SUM()` for `console.log()` — and yes, I still double-check the numbers.
 
-<img src="./assets/icon-puzzle.svg" width="18" height="18" align="absmiddle" alt="" /> Curiosity took me from clicking buttons to wondering what happens behind them. I enjoy breaking problems into smaller steps, testing ideas and debugging the parts that have other plans. My finance background taught me to think carefully about data and processes; now I'm putting that mindset to work in code, one commit at a time.
+<img src="./assets/icon-puzzle.svg" width="18" height="18" align="absmiddle" alt="" /> Curiosity took me from clicking buttons to wondering what happens behind them. I break big problems into small steps, test ideas and debug the parts that have other plans. Finance taught me that every cent counts; code taught me that every semicolon does too.
 
 <img src="./assets/icon-location.svg" width="18" height="18" align="absmiddle" alt="" /> Balen, Belgium
 
@@ -40,23 +40,23 @@
 
 ## <img src="./assets/icon-gear.svg" width="24" height="24" align="absmiddle" alt="" /> What I'm focused on
 
-- <img src="./assets/icon-frontend.svg" width="18" height="18" align="absmiddle" alt="" /> **Frontend** — building clear, responsive interfaces with HTML, CSS and JavaScript, and stepping up to React, Angular and Tailwind. “It works on my screen” isn't the finish line.
+- <img src="./assets/icon-frontend.svg" width="18" height="18" align="absmiddle" alt="" /> **Frontend** — building clear, responsive interfaces with HTML, CSS and JavaScript, and stepping up to React, Angular and Tailwind. If it looks good in Chrome, I still open Safari.
 
 ##
 
-- <img src="./assets/icon-backend.svg" width="18" height="18" align="absmiddle" alt="" /> **Backend** — creating APIs with Node.js, Express and Laravel, while giving MySQL and Supabase tables, queries and relationships the structure they deserve. The part nobody sees, but everybody notices when it breaks.
+- <img src="./assets/icon-backend.svg" width="18" height="18" align="absmiddle" alt="" /> **Backend** — creating APIs with Node.js, Express and Laravel, while giving MySQL and Supabase tables, queries and relationships the structure they deserve. I give tables a JOIN, not a headache.
 
 ##
 
-- <img src="./assets/icon-tools.svg" width="18" height="18" align="absmiddle" alt="" /> **Tools** — using Git, GitHub Actions and testing with Vitest and Jest to ship with confidence. If it isn't tested, it's just a theory.
+- <img src="./assets/icon-tools.svg" width="18" height="18" align="absmiddle" alt="" /> **Tools** — using Git, GitHub Actions and testing with Vitest and Jest to ship with confidence. `git commit -m "final"`, `"final2"`, `"really-final"` — I'm working on it.
 
 ##
 
-- <img src="./assets/icon-concepts.svg" width="18" height="18" align="absmiddle" alt="" /> **Concepts & ways of working** — planning in sprints, splitting problems into small steps and keeping data and processes tidy, a habit from my finance years. Good software starts before the first line of code.
+- <img src="./assets/icon-concepts.svg" width="18" height="18" align="absmiddle" alt="" /> **Concepts & ways of working** — planning in sprints, splitting problems into small steps and keeping data and processes tidy, a habit from my finance years. I estimate in story points, not “five minutes”.
 
 ##
 
-- <img src="./assets/icon-ai.svg" width="18" height="18" align="absmiddle" alt="" /> **AI automation** — exploring practical ways to connect tools and reduce repetitive work. Fewer copy-paste marathons, more time to solve the actual problem.
+- <img src="./assets/icon-ai.svg" width="18" height="18" align="absmiddle" alt="" /> **AI automation** — exploring practical ways to connect tools and reduce repetitive work. Let the robots copy-paste; I'll take the coffee.
 
 <p align="center">
   <picture>
@@ -127,19 +127,19 @@
 
 ### Concepts & Methodologies
 
-- <img src="./assets/icon-monday.svg" width="18" height="18" align="absmiddle" alt="" /> **Monday** — this is where I plan my tasks, track how far a project has come and coordinate the work when we work as a team.
+- <img src="./assets/icon-monday.svg" width="18" height="18" align="absmiddle" alt="" /> **Monday** — this is where I plan my tasks, track how far a project has come and coordinate the work when we work as a team. Fewer “who was doing this?”, more “done”.
 
 ##
 
-- <img src="./assets/icon-scrum.svg" width="18" height="18" align="absmiddle" alt="" /> **Scrum** — in class I work in sprints: we estimate tasks with planning poker, track them on a Kanban board in Trello and discuss what could be better after every sprint.
+- <img src="./assets/icon-scrum.svg" width="18" height="18" align="absmiddle" alt="" /> **Scrum** — in class I work in sprints: we estimate tasks with planning poker, track them on a Kanban board in Trello and discuss what could be better after every sprint. Planning poker: the only poker where everyone wins.
 
 ##
 
-- <img src="./assets/icon-api.svg" width="18" height="18" align="absmiddle" alt="" /> **REST API** — with JavaScript I request data through HTTP requests and show the API's response on my page.
+- <img src="./assets/icon-api.svg" width="18" height="18" align="absmiddle" alt="" /> **REST API** — with JavaScript I request data through HTTP requests and show the API's response on my page. GET data, not stressed.
 
 ##
 
-- <img src="./assets/icon-mcp.svg" width="18" height="18" align="absmiddle" alt="" /> **MCP** — I use it to connect AI assistants to my own tools, such as GitHub and Google Drive, so they can work directly with my files and data.
+- <img src="./assets/icon-mcp.svg" width="18" height="18" align="absmiddle" alt="" /> **MCP** — I use it to connect AI assistants to my own tools, such as GitHub and Google Drive, so they can work directly with my files and data. My assistant has more tools than my toolbox.
 
 <p align="center">
   <picture>
@@ -150,9 +150,9 @@
 
 ## <img src="./assets/icon-mail.svg" width="24" height="24" align="absmiddle" alt="" /> Let's connect
 
-<img src="./assets/icon-team.svg" width="18" height="18" align="absmiddle" alt="" /> Finance taught me to keep data tidy. Full-stack training taught me that a missing bracket can hide in plain sight. <img src="./assets/icon-bug.svg" width="18" height="18" align="absmiddle" alt="" /> I'm looking for a team to learn from and build useful software with.
+<img src="./assets/icon-team.svg" width="18" height="18" align="absmiddle" alt="" /> Finance taught me to keep data tidy. Full stack taught me that a missing bracket can hide in plain sight. <img src="./assets/icon-bug.svg" width="18" height="18" align="absmiddle" alt="" /> Now I'm looking for a team where I can learn, build and push to production (after the tests pass). <img src="./assets/icon-rocket.svg" width="18" height="18" align="absmiddle" alt="" />
 
-Curious what I've built so far? Explore my portfolio or say hi on WhatsApp. I'm always up for a chat about code, good ideas, and the occasional `works on my machine` mystery. <img src="./assets/icon-coffee.svg" width="18" height="18" align="absmiddle" alt="" />
+Curious what I've built? Check out my portfolio or say hi on WhatsApp. I'm always up for a chat about code, ideas or a good `works on my machine` mystery. <img src="./assets/icon-coffee.svg" width="18" height="18" align="absmiddle" alt="" />
 
 <br>
 
