@@ -138,7 +138,9 @@
 
 Curious what I've built so far? Explore my portfolio or say hi on LinkedIn. I'm always up for a chat about code, good ideas, and the occasional `works on my machine` mystery. ☕
 
+<br>
+
 <p align="center">
-  <a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-portfolio.svg" alt="Portfolio" width="220"></a>
-  <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="./assets/button-linkedin.svg" alt="LinkedIn" width="220"></a>
+  <a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-portfolio.svg" alt="Portfolio" width="150"></a>
+  <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="./assets/button-linkedin.svg" alt="LinkedIn" width="150"></a>
 </p>
