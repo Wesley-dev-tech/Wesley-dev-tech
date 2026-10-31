@@ -38,23 +38,23 @@
 
 ## ⚙️ What I'm focused on
 
-- 🎨 **Frontend** — building clear, responsive interfaces with HTML, CSS and JavaScript, and stepping up to React, Angular and Tailwind. “It works on my screen” isn't the finish line.
+- <img src="./assets/icon-frontend.svg" width="18" height="18" align="absmiddle" alt="" /> **Frontend** — building clear, responsive interfaces with HTML, CSS and JavaScript, and stepping up to React, Angular and Tailwind. “It works on my screen” isn't the finish line.
 
 ##
 
-- 🗄️ **Backend** — creating APIs with Node.js, Express and Laravel, while giving MySQL and Supabase tables, queries and relationships the structure they deserve. The part nobody sees, but everybody notices when it breaks.
+- <img src="./assets/icon-backend.svg" width="18" height="18" align="absmiddle" alt="" /> **Backend** — creating APIs with Node.js, Express and Laravel, while giving MySQL and Supabase tables, queries and relationships the structure they deserve. The part nobody sees, but everybody notices when it breaks.
 
 ##
 
-- 🛠️ **Tools** — using Git, GitHub Actions and testing with Vitest and Jest to ship with confidence. If it isn't tested, it's just a theory.
+- <img src="./assets/icon-tools.svg" width="18" height="18" align="absmiddle" alt="" /> **Tools** — using Git, GitHub Actions and testing with Vitest and Jest to ship with confidence. If it isn't tested, it's just a theory.
 
 ##
 
-- 🧭 **Concepts & ways of working** — planning in sprints, splitting problems into small steps and keeping data and processes tidy, a habit from my finance years. Good software starts before the first line of code.
+- <img src="./assets/icon-concepts.svg" width="18" height="18" align="absmiddle" alt="" /> **Concepts & ways of working** — planning in sprints, splitting problems into small steps and keeping data and processes tidy, a habit from my finance years. Good software starts before the first line of code.
 
 ##
 
-- 🤖 **AI automation** — exploring practical ways to connect tools and reduce repetitive work. Fewer copy-paste marathons, more time to solve the actual problem.
+- <img src="./assets/icon-ai.svg" width="18" height="18" align="absmiddle" alt="" /> **AI automation** — exploring practical ways to connect tools and reduce repetitive work. Fewer copy-paste marathons, more time to solve the actual problem.
 
 <p align="center">
   <picture>
