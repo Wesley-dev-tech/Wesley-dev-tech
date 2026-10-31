@@ -85,7 +85,7 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills/tile-apachecordova-light.svg"><img src="./assets/skills/tile-apachecordova-dark.svg" alt="Apache Cordova" title="Apache Cordova" width="40" height="40"></picture>&nbsp;&nbsp;
 </p>
 
-<hr>
+##
 
 ### Backend
 
@@ -101,7 +101,7 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Supabase-Light.svg"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Supabase-Dark.svg" alt="Supabase" title="Supabase" width="40" height="40"></picture>&nbsp;&nbsp;
 </p>
 
-<hr>
+##
 
 ### Tools & Development
 
@@ -123,7 +123,7 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills/tile-insomnia-light.svg"><img src="./assets/skills/tile-insomnia-dark.svg" alt="Insomnia" title="Insomnia" width="40" height="40"></picture>&nbsp;&nbsp;
 </p>
 
-<hr>
+##
 
 ### Concepts & Methodologies
 
