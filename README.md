@@ -98,11 +98,11 @@
 <p>
   <img src="./assets/skills/git.svg" alt="Git" title="Git" width="40" height="40">  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/github-dark.svg"><img src="./assets/skills/github.svg" alt="GitHub" title="GitHub" width="40" height="40"></picture>&nbsp;&nbsp;
   <img src="./assets/skills/githubactions.svg" alt="GitHub Actions (CI/CD)" title="GitHub Actions (CI/CD)" width="40" height="40">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/githubcopilot-dark.svg"><img src="./assets/skills/githubcopilot.svg" alt="GitHub Copilot" title="GitHub Copilot" width="40" height="40"></picture>&nbsp;&nbsp;
   <img src="./assets/skills/jira.svg" alt="Jira" title="Jira" width="40" height="40">&nbsp;&nbsp;
   <img src="./assets/skills/trello.svg" alt="Trello" title="Trello" width="40" height="40">&nbsp;&nbsp;
   <img src="./assets/skills/clickup.svg" alt="ClickUp" title="ClickUp" width="40" height="40">&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/notion-dark.svg"><img src="./assets/skills/notion.svg" alt="Notion" title="Notion" width="40" height="40"></picture>&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/githubcopilot-dark.svg"><img src="./assets/skills/githubcopilot.svg" alt="GitHub Copilot" title="GitHub Copilot" width="40" height="40"></picture>&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/cursor-dark.svg"><img src="./assets/skills/cursor.svg" alt="Cursor" title="Cursor" width="40" height="40"></picture>&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/openai-dark.svg"><img src="./assets/skills/openai.svg" alt="OpenAI API (ChatGPT &amp; Whisper)" title="OpenAI API (ChatGPT &amp; Whisper)" width="40" height="40"></picture>&nbsp;&nbsp;
   <img src="./assets/skills/vitest.svg" alt="Vitest" title="Vitest" width="40" height="40">&nbsp;&nbsp;
