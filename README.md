@@ -117,13 +117,13 @@
 
 ### Concepts & Methodologies
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-list-check-dark.svg"><img src="./assets/skills/fa-list-check.svg" alt="" width="18" height="18"></picture> <strong>Monday</strong> — a work management platform for organizing tasks, tracking progress and coordinating team projects.</p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-list-check-dark.svg"><img src="./assets/skills/fa-list-check.svg" alt="" width="18" height="18"></picture> <strong>Monday</strong> — this is where I plan my tasks, track how far a project has come and coordinate the work when we work as a team.</p>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-people-group-dark.svg"><img src="./assets/skills/fa-people-group.svg" alt="" width="18" height="18"></picture> <strong>Scrum</strong> — an Agile framework for planning work in sprints, reviewing progress and improving as a team.</p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-people-group-dark.svg"><img src="./assets/skills/fa-people-group.svg" alt="" width="18" height="18"></picture> <strong>Scrum</strong> — in class I work in sprints: we estimate tasks with planning poker, track them on a Kanban board in Trello and discuss what could be better after every sprint.</p>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-plug-dark.svg"><img src="./assets/skills/fa-plug.svg" alt="" width="18" height="18"></picture> <strong>REST API</strong> — a structured way for applications to exchange data through HTTP requests and resources.</p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-plug-dark.svg"><img src="./assets/skills/fa-plug.svg" alt="" width="18" height="18"></picture> <strong>REST API</strong> — with JavaScript I request data through HTTP requests and show the API's response on my page.</p>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-cubes-dark.svg"><img src="./assets/skills/fa-cubes.svg" alt="" width="18" height="18"></picture> <strong>Model Context Protocol (MCP)</strong> — a standard for connecting AI applications to external tools and data sources.</p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fa-cubes-dark.svg"><img src="./assets/skills/fa-cubes.svg" alt="" width="18" height="18"></picture> <strong>MCP</strong> — I use it to connect AI assistants to my own tools, such as GitHub and Google Drive, so they can work directly with my files and data.</p>
 
 <p align="center">
   <picture>
@@ -136,11 +136,12 @@
 
 🤝 Finance taught me to keep data tidy. Full-stack training taught me that a missing bracket can hide in plain sight. 🐛 I'm looking for a team to learn from and build useful software with.
 
-Curious what I've built so far? Explore my portfolio or say hi on LinkedIn. I'm always up for a chat about code, good ideas, and the occasional `works on my machine` mystery. ☕
+Curious what I've built so far? Explore my portfolio or say hi on WhatsApp. I'm always up for a chat about code, good ideas, and the occasional `works on my machine` mystery. ☕
 
 <br>
 
 <p align="center">
   <a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="./assets/button-portfolio.svg" alt="Portfolio" width="150"></a>
   <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="./assets/button-linkedin.svg" alt="LinkedIn" width="150"></a>
+  <a href="https://wa.me/32472254248"><img src="./assets/button-whatsapp.svg" alt="WhatsApp" width="150"></a>
 </p>

@@ -105,8 +105,10 @@ for theme in PALETTES:
 
 # Theme-neutral, copper buttons replace all plain-text links in the README.
 BUTTONS = {
-    'portfolio': ('PORTFOLIO', '<rect x="18" y="13" width="24" height="20" rx="3"/><path d="M18 19H42M23 16h1m3 0h1M25 25l-3 3 3 3m10-6 3 3-3 3"/>'),
+    # Same "WB" logo mark as in the portfolio's navigation bar.
+    'portfolio': ('PORTFOLIO', '<rect x="17" y="11" width="24" height="24" rx="5"/><text x="29" y="26.5" text-anchor="middle" font-family="Consolas, \'Courier New\', monospace" font-size="10" font-weight="700" letter-spacing=".3" fill="#161513" stroke="none">WB</text>'),
     'linkedin': ('LINKEDIN', '<rect x="19" y="12" width="22" height="22" rx="3"/><path d="M25 22v8m0-13v1m6 12v-8m0 3c0-5 6-5 6 0v5"/>'),
+    'whatsapp': ('WHATSAPP', '<path d="M18.5 35l1.9-5.4A11 11 0 1 1 24.4 33.4z"/><path d="M25.6 18.2c-.9.1-1.6.9-1.5 2 .4 3.6 3.6 6.8 7.2 7.2 1.1.1 1.9-.6 2-1.5l.1-1.3-2.6-1.2-1.2 1.2c-1.5-.7-2.6-1.8-3.3-3.3l1.2-1.2-1.2-2.6z"/>'),
     'about': ('ABOUT ME', '<circle cx="30" cy="17" r="5"/><path d="M19 34c0-14 22-14 22 0"/>'),
     'projects': ('PROJECTS', '<rect x="19" y="12" width="22" height="23" rx="3"/><path d="M25 12v23M29 18h7m-7 6h7m-7 6h4"/>'),
     'toolbox': ('TOOLBOX', '<rect x="17" y="19" width="26" height="16" rx="3"/><path d="M24 19v-6h12v6M17 25h26m-13-3v6"/>'),
@@ -118,8 +120,10 @@ BUTTONS = {
 }
 for key,(label,icon) in BUTTONS.items():
     width=222 if key=='all-projects' else 190
-    button=f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="46" viewBox="0 0 {width} 46" role="img" aria-label="{label}"><rect x="1" y="1" width="{width-2}" height="44" rx="7" fill="#D4895F"/><g fill="none" stroke="#161513" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">{icon}</g><text x="59" y="28" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing=".6" fill="#161513">{label}</text></svg>\n'
+    # Contact buttons centre their label inside the button; the others keep it beside the icon.
+    text_pos=f'x="{width/2:g}" y="28" text-anchor="middle"' if key in ('portfolio','linkedin','whatsapp') else 'x="59" y="28"'
+    button=f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="46" viewBox="0 0 {width} 46" role="img" aria-label="{label}"><rect x="1" y="1" width="{width-2}" height="44" rx="7" fill="#D4895F"/><g fill="none" stroke="#161513" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">{icon}</g><text {text_pos} font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing=".6" fill="#161513">{label}</text></svg>\n'
     ET.fromstring(button)
     (ASSETS/f'button-{key}.svg').write_text(button)
 
-print('Generated 12 theme-aware SVG assets and 10 original icon buttons.')
+print('Generated 12 theme-aware SVG assets and 11 original icon buttons.')
