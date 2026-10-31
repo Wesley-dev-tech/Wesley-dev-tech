@@ -9,7 +9,7 @@ PALETTES = {
     'dark': dict(bg='#161513', panel='#1F1D1A', text='#ECE7DD', muted='#A39D91', accent='#D4895F'),
     'light': dict(bg='#F7F4EE', panel='#EFE9DF', text='#1F1D1A', muted='#5C574E', accent='#9C4B26'),
 }
-MARQUEE = 'FULL STACK DEVELOPER IN TRAINING • WEB DESIGN • WEBSITES • WEB APPLICATIONS • CUSTOM SOFTWARE • AI AUTOMATION • '
+MARQUEE = 'FULL STACK DEVELOPER IN TRAINING • WEB DESIGN • WEBSITES • WEB APPLICATIONS • CUSTOM SOFTWARE • AI AUTOMATION'
 MARQUEE_PERIOD = 1440
 
 def text(x, y, content, size=20, color='text', weight='400', mono=False, extra=''):
