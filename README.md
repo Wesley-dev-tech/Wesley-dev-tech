@@ -38,11 +38,19 @@
 
 ## ⚙️ What I'm focused on
 
-- 🌐 **Websites & web design** — building clear, responsive pages with HTML and CSS. “It works on my screen” isn't the finish line.
+- 🎨 **Frontend** — building clear, responsive interfaces with HTML, CSS and JavaScript, and stepping up to React, Angular and Tailwind. “It works on my screen” isn't the finish line.
 
 ##
 
-- 🗃️ **Web applications & data** — learning JavaScript and APIs, while giving MySQL tables, queries and relationships the structure they deserve.
+- 🗄️ **Backend** — creating APIs with Node.js, Express and Laravel, while giving MySQL and Supabase tables, queries and relationships the structure they deserve. The part nobody sees, but everybody notices when it breaks.
+
+##
+
+- 🛠️ **Tools** — using Git, GitHub Actions and testing with Vitest and Jest to ship with confidence. If it isn't tested, it's just a theory.
+
+##
+
+- 🧭 **Concepts & ways of working** — planning in sprints, splitting problems into small steps and keeping data and processes tidy, a habit from my finance years. Good software starts before the first line of code.
 
 ##
 
