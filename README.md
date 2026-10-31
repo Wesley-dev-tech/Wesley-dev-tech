@@ -82,11 +82,11 @@
 <p>
   <img src="./assets/skills/nodedotjs.svg" alt="Node.js" title="Node.js" width="40" height="40">&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/express-dark.svg"><img src="./assets/skills/express.svg" alt="Express.js" title="Express.js" width="40" height="40"></picture>&nbsp;&nbsp;
-  <img src="./assets/skills/php.svg" alt="PHP" title="PHP" width="40" height="40">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php&amp;theme=light"><img src="https://skillicons.dev/icons?i=php&amp;theme=dark" alt="PHP" title="PHP" width="40" height="40"></picture>&nbsp;&nbsp;
   <img src="./assets/skills/laravel.svg" alt="Laravel" title="Laravel" width="40" height="40">&nbsp;&nbsp;
   <img src="./assets/skills/hono.svg" alt="Hono.js" title="Hono.js" width="40" height="40">&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/fastify-dark.svg"><img src="./assets/skills/fastify.svg" alt="Fastify.js" title="Fastify.js" width="40" height="40"></picture>&nbsp;&nbsp;
-  <img src="./assets/skills/python.svg" alt="Python" title="Python" width="40" height="40">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&amp;theme=light"><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" alt="Python" title="Python" width="40" height="40"></picture>&nbsp;&nbsp;
   <img src="./assets/skills/mysql.svg" alt="MySQL" title="MySQL" width="40" height="40">&nbsp;&nbsp;
   <img src="./assets/skills/supabase.svg" alt="Supabase" title="Supabase" width="40" height="40">&nbsp;&nbsp;
 </p>
