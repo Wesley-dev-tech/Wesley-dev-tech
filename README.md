@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/7945647d2a23c355c1a8034f2b0df15338df3e14/assets/header-light.svg">
-    <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/7945647d2a23c355c1a8034f2b0df15338df3e14/assets/header-dark.svg" alt="Wesley Dev & Tech — Full Stack & AI Automation Developer in training" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/09f5aa4f2e457b8fe63e478ac8e687f1dee453c6/assets/header-light.svg">
+    <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/f0747b499f4774f75d0d721effc2c7b0f4a05159/assets/header-dark.svg" alt="Wesley Dev & Tech — Full Stack & AI Automation Developer in training" width="100%">
   </picture>
 </p>
 
