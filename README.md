@@ -157,7 +157,7 @@ Curious what I've built? Check out my portfolio or say hi on WhatsApp. I'm alway
 <br>
 
 <p align="center">
-  <a href="https://wesley-dev-tech.github.io/Portfolio/"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/3a8bbad8e0053b1fb64eea6fb84dce723f5ce4a6/assets/button-portfolio.svg" alt="Portfolio" width="150"></a>
+  <a href="https://wesley-dev-tech.github.io/"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/3a8bbad8e0053b1fb64eea6fb84dce723f5ce4a6/assets/button-portfolio.svg" alt="Portfolio" width="150"></a>
   <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/3a8bbad8e0053b1fb64eea6fb84dce723f5ce4a6/assets/button-linkedin.svg" alt="LinkedIn" width="150"></a>
   <a href="https://wa.me/32472254248"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/3a8bbad8e0053b1fb64eea6fb84dce723f5ce4a6/assets/button-whatsapp.svg" alt="WhatsApp" width="150"></a>
 </p>
