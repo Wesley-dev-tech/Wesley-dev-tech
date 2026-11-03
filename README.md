@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/09f5aa4f2e457b8fe63e478ac8e687f1dee453c6/assets/header-light.svg">
-    <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/f0747b499f4774f75d0d721effc2c7b0f4a05159/assets/header-dark.svg" alt="Wesley Dev & Tech — Full Stack & AI Automation Developer in training" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/0c4f7b838a8f913f38fc0b461289eacfcc7fb4b2/assets/header-light.svg">
+    <img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/0c4f7b838a8f913f38fc0b461289eacfcc7fb4b2/assets/header-dark.svg" alt="Wesley Dev & Tech — Full Stack & AI Automation Developer in training" width="100%">
   </picture>
 </p>
 
@@ -157,7 +157,7 @@ Curious what I've built? Check out my portfolio or say hi on WhatsApp. I'm alway
 <br>
 
 <p align="center">
-  <a href="https://wesley-dev-tech.github.io/"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/3a8bbad8e0053b1fb64eea6fb84dce723f5ce4a6/assets/button-portfolio.svg" alt="Portfolio" width="150"></a>
+  <a href="https://wesley-dev-tech.github.io/"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/0c4f7b838a8f913f38fc0b461289eacfcc7fb4b2/assets/button-portfolio.svg" alt="Portfolio" width="150"></a>
   <a href="https://www.linkedin.com/in/wesley-bogaerts/"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/3a8bbad8e0053b1fb64eea6fb84dce723f5ce4a6/assets/button-linkedin.svg" alt="LinkedIn" width="150"></a>
   <a href="https://wa.me/32472254248"><img src="https://raw.githubusercontent.com/Wesley-dev-tech/Wesley-dev-tech/3a8bbad8e0053b1fb64eea6fb84dce723f5ce4a6/assets/button-whatsapp.svg" alt="WhatsApp" width="150"></a>
 </p>
